@@ -1,0 +1,347 @@
+{
+    "3D": [
+        "3D Animator",
+        "3D Modeler",
+        "Visualization Specialist"
+    ],
+    "AWS": [
+        "Cloud Engineer",
+        "DevOps Engineer",
+        "Solutions Architect"
+    ],
+    "Acceptance": [
+        "Quality Assurance Specialist",
+        "User Acceptance Tester",
+        "Software Tester"
+    ],
+    "Access": [
+        "Database Administrator",
+        "IT Support Specialist",
+        "Access Control Analyst"
+    ],
+    "Accounting": [
+        "Accountant",
+        "Financial Analyst",
+        "Auditor"
+    ],
+    "Acrobat": [
+        "Document Specialist",
+        "Graphic Designer",
+        "Publishing Coordinator"
+    ],
+    "Active": [
+        "Project Manager",
+        "Sales Representative",
+        "IT Support Specialist"
+    ],
+    "Actuarial": [
+        "Actuary",
+        "Risk Analyst",
+        "Insurance Analyst"
+    ],
+    "Adaptive": [
+        "Change Management Consultant",
+        "Product Designer",
+        "UX Specialist"
+    ],
+    "Administration": [
+        "Administrative Assistant",
+        "Office Manager",
+        "Executive Assistant"
+    ],
+    "Adobe": [
+        "Graphic Designer",
+        "Multimedia Specialist",
+        "Video Editor"
+    ],
+    "Advanced": [
+        "Data Scientist",
+        "Senior Software Developer",
+        "Machine Learning Engineer"
+    ],
+    "AdWords": [
+        "Digital Marketing Specialist",
+        "PPC Analyst",
+        "SEM Specialist"
+    ],
+    "Agile": [
+        "Agile Coach",
+        "Scrum Master",
+        "Project Manager"
+    ],
+    "AI": [
+        "AI Engineer",
+        "Data Scientist",
+        "Machine Learning Engineer"
+    ],
+    "Algorithm": [
+        "Algorithm Developer",
+        "Data Scientist",
+        "Quantitative Analyst"
+    ],
+    "Analytics": [
+        "Data Analyst",
+        "Business Intelligence Analyst",
+        "Marketing Analyst"
+    ],
+    "Android": [
+        "Android Developer",
+        "Mobile App Developer",
+        "Software Engineer"
+    ],
+    "Angular": [
+        "Frontend Developer",
+        "Web Developer",
+        "UI Developer"
+    ],
+    "Animation": [
+        "Animator",
+        "Multimedia Designer",
+        "Motion Graphics Artist"
+    ],
+    "Ansible": [
+        "DevOps Engineer",
+        "Automation Engineer",
+        "System Administrator"
+    ],
+    "Apache": [
+        "System Administrator",
+        "Web Developer",
+        "Big Data Engineer"
+    ],
+    "API": [
+        "Backend Developer",
+        "API Integration Specialist",
+        "Software Developer"
+    ],
+    "Application": [
+        "Application Developer",
+        "Software Engineer",
+        "IT Support Specialist"
+    ],
+    "Architecture": [
+        "Solution Architect",
+        "Software Architect",
+        "Enterprise Architect"
+    ],
+    "Assembly": [
+        "Assembly Technician",
+        "Mechanical Engineer",
+        "Manufacturing Specialist"
+    ],
+    "Asset": [
+        "Asset Manager",
+        "Investment Analyst",
+        "Financial Advisor"
+    ],
+    "Audit": [
+        "Auditor",
+        "Internal Auditor",
+        "Compliance Specialist"
+    ],
+    "Augmented": [
+        "AR Developer",
+        "3D Artist",
+        "User Experience Designer"
+    ],
+    "Automation": [
+        "Automation Engineer",
+        "Robotics Engineer",
+        "Process Engineer"
+    ],
+    "AutoCAD": [
+        "CAD Designer",
+        "Mechanical Engineer",
+        "Architectural Drafter"
+    ],
+    "Azure": [
+        "Cloud Engineer",
+        "Azure Developer",
+        "System Administrator"
+    ],
+    "Backend": [
+        "Backend Developer",
+        "Software Engineer",
+        "Web Developer"
+    ],
+    "Banking": [
+        "Banking Analyst",
+        "Financial Advisor",
+        "Loan Officer"
+    ],
+    "Big": [
+        "Data Engineer",
+        "Big Data Analyst",
+        "Data Scientist"
+    ],
+    "Blockchain": [
+        "Blockchain Developer",
+        "Crypto Analyst",
+        "Software Engineer"
+    ],
+    "Blog": [
+        "Content Writer",
+        "SEO Specialist",
+        "Digital Marketing Specialist"
+    ],
+    "Branding": [
+        "Brand Manager",
+        "Marketing Specialist",
+        "Creative Director"
+    ],
+    "Budget": [
+        "Financial Analyst",
+        "Budget Analyst",
+        "Project Manager"
+    ],
+    "Business": [
+        "Business Analyst",
+        "Consultant",
+        "Project Manager"
+    ],
+    "C++": [
+        "Software Developer",
+        "Game Developer",
+        "System Programmer"
+    ],
+    "CAD": [
+        "CAD Technician",
+        "Mechanical Engineer",
+        "Drafting Specialist"
+    ],
+    "Campaigns": [
+        "Marketing Coordinator",
+        "Campaign Manager",
+        "Digital Marketing Specialist"
+    ],
+    "Capacity": [
+        "Capacity Planner",
+        "Supply Chain Analyst",
+        "Operations Manager"
+    ],
+    "Carbon": [
+        "Environmental Engineer",
+        "Carbon Analyst",
+        "Sustainability Consultant"
+    ],
+    "Data": [
+        "Data Analyst",
+        "Data Scientist",
+        "Database Administrator"
+    ],
+    "Machine": [
+        "Machine Learning Engineer",
+        "Data Scientist",
+        "Automation Engineer"
+    ],
+    "User": [
+        "User Experience Designer",
+        "User Researcher",
+        "UI Developer"
+    ],
+    "Cyber": [
+        "Cybersecurity Analyst",
+        "Network Security Engineer",
+        "Information Security Officer"
+    ],
+    "Software": [
+        "Software Developer",
+        "Software Engineer",
+        "Application Developer"
+    ],
+    "Web": [
+        "Web Developer",
+        "Frontend Developer",
+        "Web Designer"
+    ],
+    "Cash": [
+        "Cashier",
+        "Finance Assistant",
+        "Bank Teller"
+    ],
+    "Catalyst": [
+        "Chemist",
+        "Process Engineer",
+        "Research Scientist"
+    ],
+    "Catering": [
+        "Catering Manager",
+        "Event Coordinator",
+        "Food Service Supervisor"
+    ],
+    "CentOS": [
+        "Linux System Administrator",
+        "DevOps Engineer",
+        "Infrastructure Specialist"
+    ],
+    "Certificate": [
+        "Certification Specialist",
+        "Compliance Officer",
+        "Credentialing Analyst"
+    ],
+    "Change": [
+        "Change Manager",
+        "Transformation Consultant",
+        "Organizational Development Specialist"
+    ],
+    "Channel": [
+        "Channel Marketing Specialist",
+        "Partnership Manager",
+        "Sales Manager"
+    ],
+    "Chat": [
+        "Customer Service Representative",
+        "Chat Support Specialist",
+        "Community Manager"
+    ],
+    "Chemical": [
+        "Chemical Engineer",
+        "Laboratory Technician",
+        "Process Engineer"
+    ],
+    "Cloud": [
+        "Cloud Architect",
+        "Cloud Operations Engineer",
+        "Systems Engineer"
+    ],
+    "Clinical": [
+        "Clinical Researcher",
+        "Medical Assistant",
+        "Clinical Trial Coordinator"
+    ],
+    "Climate": [
+        "Climate Scientist",
+        "Environmental Analyst",
+        "Sustainability Consultant"
+    ],
+    "Collaboration": [
+        "Collaboration Specialist",
+        "Project Coordinator",
+        "Community Engagement Officer"
+    ],
+    "Compliance": [
+        "Compliance Officer",
+        "Risk Manager",
+        "Regulatory Specialist"
+    ],
+    "Consulting": [
+        "Management Consultant",
+        "Business Analyst",
+        "Strategy Consultant"
+    ],
+    "Content": [
+        "Content Manager",
+        "Copywriter",
+        "Social Media Specialist"
+    ],
+    "Conversion": [
+        "Conversion Rate Specialist",
+        "SEO Analyst",
+        "Digital Marketing Strategist"
+    ],
+    "Customer": [
+        "Customer Service Representative",
+        "Client Relations Manager",
+        "Account Manager"
+    ]
+}
