@@ -1,0 +1,23 @@
+{
+    "accounts receivable": [
+        "Accounts Receivable Clerk",
+        "Billing Specialist",
+        "Revenue Analyst"
+    ],
+    "aerospace engineering": [
+        "Aerospace Engineer",
+        "Aircraft Designer",
+        "Propulsion Engineer"
+    ],
+    "agile development": [
+        "Agile Developer",
+        "Scrum Developer",
+        "Software Engineer"
+    ],
+    "artificial intelligence": [
+        "AI Engineer",
+        "Machine Learning Specialist",
+        "AI Research Scientist"
+    ],
+    // ... Add all other two-word skills with their corresponding jobs
+}
