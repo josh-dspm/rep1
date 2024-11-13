@@ -1,347 +1,2032 @@
 {
-    "3D": [
-        "3D Animator",
-        "3D Modeler",
+    "3d": [
+        "3d Animator",
+        "3d Modeler",
         "Visualization Specialist"
     ],
-    "AWS": [
+    "aws": [
         "Cloud Engineer",
         "DevOps Engineer",
         "Solutions Architect"
     ],
-    "Acceptance": [
+    "acceptance": [
         "Quality Assurance Specialist",
         "User Acceptance Tester",
         "Software Tester"
     ],
-    "Access": [
+    "access": [
         "Database Administrator",
         "IT Support Specialist",
         "Access Control Analyst"
     ],
-    "Accounting": [
+    "accounting": [
         "Accountant",
         "Financial Analyst",
         "Auditor"
     ],
-    "Acrobat": [
+    "acrobat": [
         "Document Specialist",
         "Graphic Designer",
         "Publishing Coordinator"
     ],
-    "Active": [
+    "active": [
         "Project Manager",
         "Sales Representative",
         "IT Support Specialist"
     ],
-    "Actuarial": [
+    "actuarial": [
         "Actuary",
         "Risk Analyst",
         "Insurance Analyst"
     ],
-    "Adaptive": [
+    "adaptive": [
         "Change Management Consultant",
         "Product Designer",
         "UX Specialist"
     ],
-    "Administration": [
+    "administration": [
         "Administrative Assistant",
         "Office Manager",
         "Executive Assistant"
     ],
-    "Adobe": [
+    "adobe": [
         "Graphic Designer",
         "Multimedia Specialist",
         "Video Editor"
     ],
-    "Advanced": [
+    "advanced": [
         "Data Scientist",
         "Senior Software Developer",
         "Machine Learning Engineer"
     ],
-    "AdWords": [
+    "adwords": [
         "Digital Marketing Specialist",
         "PPC Analyst",
         "SEM Specialist"
     ],
-    "Agile": [
+    "agile": [
         "Agile Coach",
         "Scrum Master",
         "Project Manager"
     ],
-    "AI": [
+    "ai": [
         "AI Engineer",
         "Data Scientist",
         "Machine Learning Engineer"
     ],
-    "Algorithm": [
+    "algorithm": [
         "Algorithm Developer",
         "Data Scientist",
         "Quantitative Analyst"
     ],
-    "Analytics": [
+    "analytics": [
         "Data Analyst",
         "Business Intelligence Analyst",
         "Marketing Analyst"
     ],
-    "Android": [
+    "android": [
         "Android Developer",
         "Mobile App Developer",
         "Software Engineer"
     ],
-    "Angular": [
+    "angular": [
         "Frontend Developer",
         "Web Developer",
         "UI Developer"
     ],
-    "Animation": [
+    "animation": [
         "Animator",
         "Multimedia Designer",
         "Motion Graphics Artist"
     ],
-    "Ansible": [
+    "ansible": [
         "DevOps Engineer",
         "Automation Engineer",
         "System Administrator"
     ],
-    "Apache": [
+    "apache": [
         "System Administrator",
         "Web Developer",
         "Big Data Engineer"
     ],
-    "API": [
+    "api": [
         "Backend Developer",
         "API Integration Specialist",
         "Software Developer"
     ],
-    "Application": [
+    "application": [
         "Application Developer",
         "Software Engineer",
         "IT Support Specialist"
     ],
-    "Architecture": [
+    "architecture": [
         "Solution Architect",
         "Software Architect",
         "Enterprise Architect"
     ],
-    "Assembly": [
+    "assembly": [
         "Assembly Technician",
         "Mechanical Engineer",
         "Manufacturing Specialist"
     ],
-    "Asset": [
+    "asset": [
         "Asset Manager",
         "Investment Analyst",
         "Financial Advisor"
     ],
-    "Audit": [
+    "audit": [
         "Auditor",
         "Internal Auditor",
         "Compliance Specialist"
     ],
-    "Augmented": [
+    "augmented": [
         "AR Developer",
         "3D Artist",
         "User Experience Designer"
     ],
-    "Automation": [
+    "automation": [
         "Automation Engineer",
         "Robotics Engineer",
         "Process Engineer"
     ],
-    "AutoCAD": [
+    "autocad": [
         "CAD Designer",
         "Mechanical Engineer",
         "Architectural Drafter"
     ],
-    "Azure": [
+    "azure": [
         "Cloud Engineer",
         "Azure Developer",
         "System Administrator"
     ],
-    "Backend": [
+    "backend": [
         "Backend Developer",
         "Software Engineer",
         "Web Developer"
     ],
-    "Banking": [
+    "banking": [
         "Banking Analyst",
         "Financial Advisor",
         "Loan Officer"
     ],
-    "Big": [
+    "big": [
         "Data Engineer",
         "Big Data Analyst",
         "Data Scientist"
     ],
-    "Blockchain": [
+    "blockchain": [
         "Blockchain Developer",
         "Crypto Analyst",
         "Software Engineer"
     ],
-    "Blog": [
+    "blog": [
         "Content Writer",
         "SEO Specialist",
         "Digital Marketing Specialist"
     ],
-    "Branding": [
+    "branding": [
         "Brand Manager",
         "Marketing Specialist",
         "Creative Director"
     ],
-    "Budget": [
+    "budget": [
         "Financial Analyst",
         "Budget Analyst",
         "Project Manager"
     ],
-    "Business": [
+    "business": [
         "Business Analyst",
         "Consultant",
         "Project Manager"
     ],
-    "C++": [
+    "c++": [
         "Software Developer",
         "Game Developer",
         "System Programmer"
     ],
-    "CAD": [
+    "cad": [
         "CAD Technician",
         "Mechanical Engineer",
         "Drafting Specialist"
     ],
-    "Campaigns": [
+    "campaigns": [
         "Marketing Coordinator",
         "Campaign Manager",
         "Digital Marketing Specialist"
     ],
-    "Capacity": [
+    "capacity": [
         "Capacity Planner",
         "Supply Chain Analyst",
         "Operations Manager"
     ],
-    "Carbon": [
+    "carbon": [
         "Environmental Engineer",
         "Carbon Analyst",
         "Sustainability Consultant"
     ],
-    "Data": [
+    "data": [
         "Data Analyst",
         "Data Scientist",
         "Database Administrator"
     ],
-    "Machine": [
-        "Machine Learning Engineer",
-        "Data Scientist",
-        "Automation Engineer"
-    ],
-    "User": [
+    "user": [
         "User Experience Designer",
         "User Researcher",
         "UI Developer"
     ],
-    "Cyber": [
+    "cyber": [
         "Cybersecurity Analyst",
         "Network Security Engineer",
         "Information Security Officer"
     ],
-    "Software": [
+    "software": [
         "Software Developer",
         "Software Engineer",
         "Application Developer"
     ],
-    "Web": [
+    "web": [
         "Web Developer",
         "Frontend Developer",
         "Web Designer"
     ],
-    "Cash": [
+    "cash": [
         "Cashier",
         "Finance Assistant",
         "Bank Teller"
     ],
-    "Catalyst": [
+    "catalyst": [
         "Chemist",
         "Process Engineer",
         "Research Scientist"
     ],
-    "Catering": [
+    "catering": [
         "Catering Manager",
         "Event Coordinator",
         "Food Service Supervisor"
     ],
-    "CentOS": [
+    "centos": [
         "Linux System Administrator",
         "DevOps Engineer",
         "Infrastructure Specialist"
     ],
-    "Certificate": [
+    "certificate": [
         "Certification Specialist",
         "Compliance Officer",
         "Credentialing Analyst"
     ],
-    "Change": [
+    "change": [
         "Change Manager",
         "Transformation Consultant",
         "Organizational Development Specialist"
     ],
-    "Channel": [
+    "channel": [
         "Channel Marketing Specialist",
         "Partnership Manager",
         "Sales Manager"
     ],
-    "Chat": [
+    "chat": [
         "Customer Service Representative",
         "Chat Support Specialist",
         "Community Manager"
     ],
-    "Chemical": [
+    "chemical": [
         "Chemical Engineer",
         "Laboratory Technician",
         "Process Engineer"
     ],
-    "Cloud": [
+    "cloud": [
         "Cloud Architect",
         "Cloud Operations Engineer",
         "Systems Engineer"
     ],
-    "Clinical": [
+    "clinical": [
         "Clinical Researcher",
         "Medical Assistant",
         "Clinical Trial Coordinator"
     ],
-    "Climate": [
+    "climate": [
         "Climate Scientist",
         "Environmental Analyst",
         "Sustainability Consultant"
     ],
-    "Collaboration": [
+    "collaboration": [
         "Collaboration Specialist",
         "Project Coordinator",
         "Community Engagement Officer"
     ],
-    "Compliance": [
+    "compliance": [
         "Compliance Officer",
         "Risk Manager",
         "Regulatory Specialist"
     ],
-    "Consulting": [
+    "consulting": [
         "Management Consultant",
         "Business Analyst",
         "Strategy Consultant"
     ],
-    "Content": [
+    "content": [
         "Content Manager",
         "Copywriter",
         "Social Media Specialist"
     ],
-    "Conversion": [
+    "conversion": [
         "Conversion Rate Specialist",
         "SEO Analyst",
         "Digital Marketing Strategist"
     ],
-    "Customer": [
+    "customer": [
         "Customer Service Representative",
         "Client Relations Manager",
         "Account Manager"
+    ],
+        "version": [
+            "Version Control Specialist",
+            "Software Developer",
+            "Release Manager"
+        ],
+        "video": [
+            "Video Editor",
+            "Videographer",
+            "Motion Graphics Designer"
+        ],
+        "virtualization": [
+            "Virtualization Engineer",
+            "Cloud Engineer",
+            "Systems Administrator"
+        ],
+        "virus": [
+            "Virus Analyst",
+            "Cybersecurity Specialist",
+            "Malware Analyst"
+        ],
+        "vision": [
+            "Vision Engineer",
+            "Computer Vision Developer",
+            "AI Engineer"
+        ],
+        "visualization": [
+            "Data Visualization Specialist",
+            "Business Intelligence Analyst",
+            "UX Designer"
+        ],
+        "voice": [
+            "Voice Designer",
+            "Voice Actor",
+            "Speech Recognition Engineer"
+        ],
+        "vue": [
+            "Vue Developer",
+            "Frontend Developer",
+            "JavaScript Developer"
+        ],
+        "warehouse": [
+            "Warehouse Manager",
+            "Warehouse Supervisor",
+            "Inventory Manager"
+        ],
+        "water": [
+            "Water Resources Engineer",
+            "Hydrologist",
+            "Environmental Scientist"
+        ],
+        "weather": [
+            "Meteorologist",
+            "Weather Analyst",
+            "Climate Scientist"
+        ],
+        "webgl": [
+            "WebGL Developer",
+            "3D Developer",
+            "Game Developer"
+        ],
+        "webpack": [
+            "Frontend Developer",
+            "JavaScript Developer",
+            "Build Engineer"
+        ],
+        "website": [
+            "Web Designer",
+            "Web Developer",
+            "Frontend Developer"
+        ],
+        "wellness": [
+            "Wellness Coach",
+            "Health Specialist",
+            "Fitness Trainer"
+        ],
+        "wildlife": [
+            "Wildlife Biologist",
+            "Conservation Scientist",
+            "Ecologist"
+        ],
+        "wireless": [
+            "Wireless Engineer",
+            "Network Engineer",
+            "Telecommunications Specialist"
+        ],
+        "workflow": [
+            "Workflow Analyst",
+            "Process Improvement Manager",
+            "Business Analyst"
+        ],
+        "workplace": [
+            "Workplace Specialist",
+            "HR Manager",
+            "Workplace Safety Officer"
+        ],
+        "workshop": [
+            "Workshop Facilitator",
+            "Trainer",
+            "Workshop Coordinator"
+        ],
+        "xml": [
+            "XML Developer",
+            "Software Engineer",
+            "Database Administrator"
+        ],
+        "it skills": [
+            "IT Specialist",
+            "IT Support Technician",
+            "IT Consultant"
+        ],
+        "devops": [
+            "DevOps Engineer",
+            "Systems Engineer",
+            "Automation Engineer"
+        ],
+        "network": [
+            "Network Engineer",
+            "Network Administrator",
+            "Systems Engineer"
+        ],
+        "security": [
+            "Security Analyst",
+            "Cybersecurity Engineer",
+            "Information Security Officer"
+        ],
+        "intelligence": [
+            "Intelligence Analyst",
+            "Cyber Intelligence Specialist",
+            "Data Scientist"
+        ],
+        "mining": [
+            "Mining Engineer",
+            "Mining Operations Manager",
+            "Geotechnical Engineer"
+        ],
+        "mobile": [
+            "Mobile App Developer",
+            "Mobile Developer",
+            "Mobile Tester"
+        ],
+        "database": [
+            "Database Administrator",
+            "SQL Developer",
+            "Database Developer"
+        ],
+        "frontend": [
+            "Frontend Developer",
+            "UI Developer",
+            "Web Developer"
+        ],
+            "perl": [
+                "Perl Developer",
+                "Software Engineer",
+                "System Administrator"
+            ],
+            "personnel": [
+                "Personnel Manager",
+                "HR Specialist",
+                "Recruitment Manager"
+            ],
+            "pharmaceutical": [
+                "Pharmaceutical Researcher",
+                "Pharmacist",
+                "Pharmaceutical Analyst"
+            ],
+            "php": [
+                "PHP Developer",
+                "Web Developer",
+                "Backend Developer"
+            ],
+            "physical": [
+                "Physical Therapist",
+                "Physical Education Teacher",
+                "Health Coach"
+            ],
+            "pipeline": [
+                "Pipeline Engineer",
+                "Pipeline Operations Manager",
+                "Pipeline Technician"
+            ],
+            "planning": [
+                "Planning Manager",
+                "Project Planner",
+                "Urban Planner"
+            ],
+            "platform": [
+                "Platform Engineer",
+                "Solutions Architect",
+                "Platform Manager"
+            ],
+            "play": [
+                "Game Developer",
+                "Game Designer",
+                "Game Programmer"
+            ],
+            "plugin": [
+                "Plugin Developer",
+                "Software Engineer",
+                "Web Developer"
+            ],
+            "point": [
+                "Point of Sale Specialist",
+                "Retail Manager",
+                "Sales Associate"
+            ],
+            "policy": [
+                "Policy Analyst",
+                "Public Policy Consultant",
+                "Regulatory Affairs Specialist"
+            ],
+            "portfolio": [
+                "Portfolio Manager",
+                "Investment Analyst",
+                "Financial Planner"
+            ],
+            "position": [
+                "Position Manager",
+                "Human Resources Manager",
+                "Operations Manager"
+            ],
+            "postgresql": [
+                "PostgreSQL Database Administrator",
+                "Backend Developer",
+                "Data Engineer"
+            ],
+            "power": [
+                "Power Systems Engineer",
+                "Power Plant Operator",
+                "Electrical Engineer"
+            ],
+            "powershell": [
+                "PowerShell Developer",
+                "System Administrator",
+                "Automation Engineer"
+            ],
+            "prediction": [
+                "Data Scientist",
+                "Predictive Analytics Specialist",
+                "Machine Learning Engineer"
+            ],
+            "presentation": [
+                "Presentation Specialist",
+                "Business Analyst",
+                "Public Speaking Coach"
+            ],
+            "prevention": [
+                "Prevention Specialist",
+                "Health and Safety Manager",
+                "Risk Manager"
+            ],
+            "price": [
+                "Pricing Analyst",
+                "Pricing Manager",
+                "Financial Analyst"
+            ],
+            "print": [
+                "Print Manager",
+                "Print Designer",
+                "Printing Technician"
+            ],
+            "privacy": [
+                "Privacy Officer",
+                "Data Privacy Specialist",
+                "Compliance Consultant"
+            ],
+            "process": [
+                "Process Engineer",
+                "Process Improvement Specialist",
+                "Manufacturing Engineer"
+            ],
+            "procurement": [
+                "Procurement Manager",
+                "Purchasing Agent",
+                "Supply Chain Manager"
+            ],
+            "product": [
+                "Product Manager",
+                "Product Designer",
+                "Product Developer"
+            ],
+            "production": [
+                "Production Manager",
+                "Manufacturing Specialist",
+                "Production Planner"
+            ],
+            "professional": [
+                "Professional Development Coach",
+                "HR Specialist",
+                "Career Counselor"
+            ],
+            "programming": [
+                "Programmer",
+                "Software Developer",
+                "Web Developer"
+            ],
+            "project": [
+                "Project Manager",
+                "Project Coordinator",
+                "Project Planner"
+            ],
+            "property": [
+                "Property Manager",
+                "Real Estate Agent",
+                "Property Developer"
+            ],
+            "protection": [
+                "Protection Engineer",
+                "Safety Officer",
+                "Security Consultant"
+            ],
+            "protocol": [
+                "Protocol Officer",
+                "Network Protocol Engineer",
+                "Compliance Officer"
+            ],
+            "prototype": [
+                "Prototype Engineer",
+                "Product Designer",
+                "Industrial Designer"
+            ],
+            "proxy": [
+                "Proxy Server Administrator",
+                "Network Security Engineer",
+                "IT Support Specialist"
+            ],
+            "public": [
+                "Public Relations Manager",
+                "Public Policy Consultant",
+                "Government Affairs Specialist"
+            ],
+            "purchase": [
+                "Purchasing Manager",
+                "Buyer",
+                "Procurement Specialist"
+            ],
+            "python": [
+                "Python Developer",
+                "Software Engineer",
+                "Data Scientist"
+            ],
+            "qa": [
+                "QA Engineer",
+                "Quality Assurance Specialist",
+                "Test Engineer"
+            ],
+            "quality": [
+                "Quality Control Manager",
+                "Quality Assurance Analyst",
+                "Quality Specialist"
+            ],
+            "quantitative": [
+                "Quantitative Analyst",
+                "Data Scientist",
+                "Financial Analyst"
+            ],
+            "query": [
+                "Database Developer",
+                "SQL Developer",
+                "Data Analyst"
+            ],
+            "queue": [
+                "Queue Administrator",
+                "Queue Engineer",
+                "System Administrator"
+            ],
+            "r": [
+                "R Developer",
+                "Data Scientist",
+                "Statistician"
+            ],
+            "radar": [
+                "Radar Technician",
+                "Radar Engineer",
+                "System Engineer"
+            ],
+            "radio": [
+                "Radio Technician",
+                "Radio Engineer",
+                "Broadcast Engineer"
+            ],
+            "rails": [
+                "Rails Developer",
+                "Software Engineer",
+                "Backend Developer"
+            ],
+            "react": [
+                "React Developer",
+                "Frontend Developer",
+                "Web Developer"
+            ],
+            "real": [
+                "Real Estate Agent",
+                "Real Estate Manager",
+                "Property Developer"
+            ],
+            "recognition": [
+                "Recognition Specialist",
+                "Speech Recognition Engineer",
+                "AI Developer"
+            ],
+            "recommendation": [
+                "Recommendation System Engineer",
+                "AI Developer",
+                "Data Scientist"
+            ],
+            "record": [
+                "Record Manager",
+                "Database Administrator",
+                "Data Manager"
+            ],
+            "recovery": [
+                "Recovery Specialist",
+                "Disaster Recovery Consultant",
+                "Business Continuity Manager"
+            ],
+            "recruitment": [
+                "Recruitment Specialist",
+                "Recruitment Manager",
+                "Talent Acquisition Specialist"
+            ],
+            "redis": [
+                "Redis Developer",
+                "Backend Developer",
+                "Database Administrator"
+            ],
+            "regression": [
+                "Regression Tester",
+                "Data Scientist",
+                "QA Engineer"
+            ],
+            "regulatory": [
+                "Regulatory Affairs Specialist",
+                "Compliance Officer",
+                "Regulatory Consultant"
+            ],
+            "relationship": [
+                "Relationship Manager",
+                "Client Relationship Specialist",
+                "Account Manager"
+            ],
+            "release": [
+                "Release Manager",
+                "Software Developer",
+                "Release Engineer"
+            ],
+            "remote": [
+                "Remote Support Specialist",
+                "Remote Project Manager",
+                "Virtual Assistant"
+            ],
+            "render": [
+                "Render Artist",
+                "3D Artist",
+                "VFX Artist"
+            ],
+            "renewable": [
+                "Renewable Energy Engineer",
+                "Sustainability Consultant",
+                "Renewable Energy Consultant"
+            ],
+            "report": [
+                "Report Analyst",
+                "Financial Analyst",
+                "Data Analyst"
+            ],
+            "repository": [
+                "Repository Manager",
+                "Version Control Specialist",
+                "Database Administrator"
+            ],
+            "research": [
+                "Research Scientist",
+                "Research Analyst",
+                "Data Analyst"
+            ],
+            "resource": [
+                "Resource Manager",
+                "HR Specialist",
+                "Operations Manager"
+            ],
+            "response": [
+                "Incident Response Specialist",
+                "Crisis Manager",
+                "Security Analyst"
+            ],
+            "rest": [
+                "REST API Developer",
+                "Backend Developer",
+                "Web Developer"
+            ],
+            "retail": [
+                "Retail Manager",
+                "Retail Analyst",
+                "Sales Associate"
+            ],
+            "retirement": [
+                "Retirement Planner",
+                "Financial Advisor",
+                "Pension Fund Manager"
+            ],
+            "revenue": [
+                "Revenue Manager",
+                "Financial Analyst",
+                "Sales Manager"
+            ],
+            "review": [
+                "Review Specialist",
+                "Product Reviewer",
+                "Quality Assurance Tester"
+            ],
+            "risk": [
+                "Risk Analyst",
+                "Risk Manager",
+                "Compliance Officer"
+            ],
+            "robot": [
+                "Robotics Engineer",
+                "Robotic Technician",
+                "Automation Specialist"
+            ],
+            "route": [
+                "Route Planner",
+                "Logistics Coordinator",
+                "Route Optimization Specialist"
+            ],
+            "ruby": [
+                "Ruby Developer",
+                "Backend Developer",
+                "Web Developer"
+            ],
+            "runtime": [
+                "Runtime Environment Developer",
+                "Systems Programmer",
+                "Application Developer"
+            ],
+            "rural": [
+                "Rural Development Specialist",
+                "Urban Planner",
+                "Agricultural Consultant"
+            ],
+            "rust": [
+                "Rust Developer",
+                "Software Engineer",
+                "Systems Programmer"
+            ],
+            "safety": [
+                "Safety Officer",
+                "Health and Safety Manager",
+                "Safety Consultant"
+            ],
+            "sales": [
+                "Sales Manager",
+                "Sales Executive",
+                "Sales Representative"
+            ],
+            "sap": [
+                "SAP Consultant",
+                "SAP Developer",
+                "Business Analyst"
+            ],
+            "sas": [
+                "SAS Programmer",
+                "Data Analyst",
+                "Business Intelligence Analyst"
+            ],
+            "scala": [
+                "Scala Developer",
+                "Software Engineer",
+                "Backend Developer"
+            ],
+            "scale": [
+                "Scale Engineer",
+                "Operations Manager",
+                "Capacity Planner"
+            ],
+            "schedule": [
+                "Schedule Coordinator",
+                "Project Scheduler",
+                "Operations Manager"
+            ],
+            "schema": [
+                "Database Architect",
+                "SQL Developer",
+                "Systems Designer"
+            ],
+            "science": [
+                "Data Scientist",
+                "Biological Scientist",
+                "Research Scientist"
+            ],
+            "scientific": [
+                "Scientific Researcher",
+                "Lab Technician",
+                "Biochemist"
+            ],
+                "scikit": [
+                    "Scikit-learn Developer",
+                    "Machine Learning Engineer",
+                    "Data Scientist"
+                ],
+                "score": [
+                    "Score Analyst",
+                    "Data Scientist",
+                    "Business Intelligence Analyst"
+                ],
+                "screen": [
+                    "Screen Designer",
+                    "UI Designer",
+                    "Software Engineer"
+                ],
+                "script": [
+                    "Script Developer",
+                    "Software Engineer",
+                    "Web Developer"
+                ],
+                "search": [
+                    "Search Engine Optimization Specialist",
+                    "SEO Analyst",
+                    "Digital Marketing Specialist"
+                ],
+                "selenium": [
+                    "Selenium Automation Tester",
+                    "QA Engineer",
+                    "Test Automation Engineer"
+                ],
+                "seo": [
+                    "SEO Specialist",
+                    "SEO Analyst",
+                    "SEO Manager"
+                ],
+                "sequence": [
+                    "Sequence Engineer",
+                    "Data Scientist",
+                    "Software Developer"
+                ],
+                "serial": [
+                    "Serial Programmer",
+                    "Hardware Engineer",
+                    "Embedded Systems Developer"
+                ],
+                "server": [
+                    "Server Administrator",
+                    "Systems Engineer",
+                    "Network Administrator"
+                ],
+                "service": [
+                    "Service Manager",
+                    "Customer Service Representative",
+                    "Service Desk Technician"
+                ],
+                "session": [
+                    "Session Engineer",
+                    "Session Management Specialist",
+                    "IT Support Specialist"
+                ],
+                "setup": [
+                    "Setup Specialist",
+                    "Systems Administrator",
+                    "Installation Technician"
+                ],
+                "shell": [
+                    "Shell Script Developer",
+                    "DevOps Engineer",
+                    "Linux Administrator"
+                ],
+                "shipping": [
+                    "Shipping Manager",
+                    "Logistics Coordinator",
+                    "Supply Chain Manager"
+                ],
+                "shopping": [
+                    "E-commerce Manager",
+                    "Product Manager",
+                    "Digital Marketing Specialist"
+                ],
+                "signal": [
+                    "Signal Processing Engineer",
+                    "Wireless Communication Engineer",
+                    "Electrical Engineer"
+                ],
+                "simulation": [
+                    "Simulation Engineer",
+                    "Data Analyst",
+                    "Modeling Specialist"
+                ],
+                "site": [
+                    "Site Manager",
+                    "Web Developer",
+                    "Site Reliability Engineer"
+                ],
+                "smart": [
+                    "Smart City Developer",
+                    "Smart Grid Engineer",
+                    "IoT Developer"
+                ],
+                "smtp": [
+                    "SMTP Engineer",
+                    "Email Systems Administrator",
+                    "Network Engineer"
+                ],
+                "social": [
+                    "Social Media Manager",
+                    "Community Manager",
+                    "Social Media Specialist"
+                ],
+                "socket": [
+                    "Socket Developer",
+                    "Network Engineer",
+                    "Software Developer"
+                ],
+                "solar": [
+                    "Solar Engineer",
+                    "Solar Consultant",
+                    "Renewable Energy Specialist"
+                ],
+                "solution": [
+                    "Solution Architect",
+                    "Solution Engineer",
+                    "Systems Architect"
+                ],
+                "solutions": [
+                    "Solutions Architect",
+                    "Business Solutions Consultant",
+                    "IT Solutions Specialist"
+                ],
+                "sound": [
+                    "Sound Engineer",
+                    "Audio Designer",
+                    "Sound Technician"
+                ],
+                "source": [
+                    "Source Code Developer",
+                    "Software Engineer",
+                    "Backend Developer"
+                ],
+                "space": [
+                    "Space Engineer",
+                    "Astrophysicist",
+                    "Astronautical Engineer"
+                ],
+                "spark": [
+                    "Spark Developer",
+                    "Data Engineer",
+                    "Big Data Analyst"
+                ],
+                "spatial": [
+                    "Spatial Analyst",
+                    "GIS Specialist",
+                    "Geospatial Developer"
+                ],
+                "speaker": [
+                    "Public Speaker",
+                    "Voice Artist",
+                    "Speech Coach"
+                ],
+                "specialist": [
+                    "Specialist Consultant",
+                    "IT Specialist",
+                    "Security Specialist"
+                ],
+                "speech": [
+                    "Speech Therapist",
+                    "Speech Recognition Engineer",
+                    "Voice Engineer"
+                ],
+                "spring": [
+                    "Spring Developer",
+                    "Java Developer",
+                    "Software Engineer"
+                ],
+                "sql": [
+                    "SQL Developer",
+                    "Database Administrator",
+                    "Data Analyst"
+                ],
+                "ssh": [
+                    "SSH Administrator",
+                    "Security Engineer",
+                    "Systems Engineer"
+                ],
+                "ssl": [
+                    "SSL Engineer",
+                    "Security Specialist",
+                    "Systems Administrator"
+                ],
+                "stack": [
+                    "Full Stack Developer",
+                    "Software Engineer",
+                    "Web Developer"
+                ],
+                "standard": [
+                    "Standard Compliance Officer",
+                    "Quality Control Manager",
+                    "Regulatory Compliance Specialist"
+                ],
+                "statistical": [
+                    "Statistical Analyst",
+                    "Data Scientist",
+                    "Quantitative Analyst"
+                ],
+                "steam": [
+                    "Steam Developer",
+                    "Game Developer",
+                    "Software Engineer"
+                ],
+                "storage": [
+                    "Storage Engineer",
+                    "Data Storage Specialist",
+                    "Systems Administrator"
+                ],
+                "store": [
+                    "Store Manager",
+                    "Inventory Manager",
+                    "Retail Associate"
+                ],
+                "strategic": [
+                    "Strategic Consultant",
+                    "Strategy Manager",
+                    "Strategic Planner"
+                ],
+                "strategy": [
+                    "Strategy Consultant",
+                    "Business Strategy Manager",
+                    "Marketing Strategist"
+                ],
+                "stream": [
+                    "Stream Engineer",
+                    "Video Streaming Specialist",
+                    "Software Developer"
+                ],
+                "string": [
+                    "String Manipulation Developer",
+                    "Software Engineer",
+                    "Backend Developer"
+                ],
+                "structure": [
+                    "Structural Engineer",
+                    "Architect",
+                    "Civil Engineer"
+                ],
+                "studio": [
+                    "Studio Manager",
+                    "Sound Engineer",
+                    "Video Producer"
+                ],
+                "study": [
+                    "Research Analyst",
+                    "Study Coordinator",
+                    "Clinical Researcher"
+                ],
+                "style": [
+                    "Style Consultant",
+                    "UX Designer",
+                    "Fashion Designer"
+                ],
+                "subnet": [
+                    "Network Engineer",
+                    "IT Specialist",
+                    "Network Administrator"
+                ],
+                "subscription": [
+                    "Subscription Manager",
+                    "Business Analyst",
+                    "E-commerce Manager"
+                ],
+                "support": [
+                    "IT Support Specialist",
+                    "Customer Support Representative",
+                    "Help Desk Technician"
+                ],
+                "survey": [
+                    "Survey Specialist",
+                    "Market Research Analyst",
+                    "Survey Analyst"
+                ],
+                "swift": [
+                    "Swift Developer",
+                    "iOS Developer",
+                    "Mobile App Developer"
+                ],
+                "switch": [
+                    "Switch Technician",
+                    "Network Engineer",
+                    "Systems Engineer"
+                ],
+                "sync": [
+                    "Synchronization Specialist",
+                    "Software Engineer",
+                    "Data Engineer"
+                ],
+                "system": [
+                    "Systems Administrator",
+                    "Systems Engineer",
+                    "Network Administrator"
+                ],
+                "table": [
+                    "Tableau Developer",
+                    "Data Analyst",
+                    "Business Intelligence Specialist"
+                ],
+                "tableau": [
+                    "Tableau Developer",
+                    "Data Analyst",
+                    "Business Intelligence Specialist"
+                ],
+                "tag": [
+                    "Tagging Specialist",
+                    "SEO Specialist",
+                    "Web Developer"
+                ],
+                "target": [
+                    "Targeting Specialist",
+                    "Marketing Manager",
+                    "Sales Representative"
+                ],
+                "task": [
+                    "Task Manager",
+                    "Project Manager",
+                    "Operations Manager"
+                ],
+                "tax": [
+                    "Tax Consultant",
+                    "Tax Analyst",
+                    "Accountant"
+                ],
+                "teaching": [
+                    "Teacher",
+                    "Instructor",
+                    "Education Specialist"
+                ],
+                "team": [
+                    "Team Leader",
+                    "Team Manager",
+                    "HR Manager"
+                ],
+                "technical": [
+                    "Technical Support Specialist",
+                    "Technical Writer",
+                    "Systems Engineer"
+                ],
+                "technology": [
+                    "Technology Consultant",
+                    "IT Manager",
+                    "Technical Specialist"
+                ],
+                    "firebase": [
+                        "Firebase Developer",
+                        "Mobile App Developer",
+                        "Cloud Engineer"
+                    ],
+                    "firmware": [
+                        "Firmware Engineer",
+                        "Embedded Systems Developer",
+                        "Firmware Developer"
+                    ],
+                    "fiscal": [
+                        "Fiscal Analyst",
+                        "Financial Planner",
+                        "Accounting Manager"
+                    ],
+                    "flask": [
+                        "Flask Developer",
+                        "Python Developer",
+                        "Backend Developer"
+                    ],
+                    "fleet": [
+                        "Fleet Manager",
+                        "Logistics Coordinator",
+                        "Fleet Operations Manager"
+                    ],
+                    "flight": [
+                        "Flight Engineer",
+                        "Aviation Manager",
+                        "Pilot"
+                    ],
+                    "flow": [
+                        "Flow Designer",
+                        "Workflow Specialist",
+                        "Business Analyst"
+                    ],
+                    "flutter": [
+                        "Flutter Developer",
+                        "Mobile App Developer",
+                        "Cross-Platform Developer"
+                    ],
+                    "food": [
+                        "Food Safety Manager",
+                        "Nutritionist",
+                        "Food Scientist"
+                    ],
+                    "forecast": [
+                        "Forecasting Analyst",
+                        "Data Analyst",
+                        "Supply Chain Manager"
+                    ],
+                    "foreign": [
+                        "Foreign Language Specialist",
+                        "Translation Specialist",
+                        "International Relations Officer"
+                    ],
+                    "forensic": [
+                        "Forensic Analyst",
+                        "Forensic Scientist",
+                        "Crime Scene Investigator"
+                    ],
+                    "form": [
+                        "Form Designer",
+                        "Data Entry Specialist",
+                        "Forms Administrator"
+                    ],
+                    "format": [
+                        "Formatting Specialist",
+                        "Content Editor",
+                        "Document Manager"
+                    ],
+                    "framework": [
+                        "Framework Developer",
+                        "Software Architect",
+                        "Web Developer"
+                    ],
+                    "franchise": [
+                        "Franchise Manager",
+                        "Franchise Consultant",
+                        "Franchise Development Officer"
+                    ],
+                    "full": [
+                        "Full Stack Developer",
+                        "Software Engineer",
+                        "Web Developer"
+                    ],
+                    "function": [
+                        "Function Developer",
+                        "Mathematical Function Engineer",
+                        "Software Engineer"
+                    ],
+                    "fund": [
+                        "Fund Manager",
+                        "Investment Manager",
+                        "Financial Analyst"
+                    ],
+                    "game": [
+                        "Game Developer",
+                        "Game Designer",
+                        "Game Tester"
+                    ],
+                    "gateway": [
+                        "Gateway Developer",
+                        "API Gateway Specialist",
+                        "Network Engineer"
+                    ],
+                    "gcp": [
+                        "GCP Engineer",
+                        "Cloud Architect",
+                        "Google Cloud Developer"
+                    ],
+                    "gene": [
+                        "Genetic Researcher",
+                        "Genetic Counselor",
+                        "Biotechnologist"
+                    ],
+                    "generation": [
+                        "Energy Generation Specialist",
+                        "Power Generation Engineer",
+                        "Sustainability Manager"
+                    ],
+                    "geographic": [
+                        "Geographic Information Systems Analyst",
+                        "GIS Developer",
+                        "Geospatial Analyst"
+                    ],
+                    "git": [
+                        "Git Developer",
+                        "Software Developer",
+                        "Version Control Specialist"
+                    ],
+                    "global": [
+                        "Global Marketing Manager",
+                        "Global Sales Manager",
+                        "Global Operations Manager"
+                    ],
+                    "go": [
+                        "Go Developer",
+                        "Software Engineer",
+                        "Backend Developer"
+                    ],
+                    "google": [
+                        "Google Ads Specialist",
+                        "Google Analytics Specialist",
+                        "Cloud Engineer"
+                    ],
+                    "governance": [
+                        "Governance Manager",
+                        "Compliance Officer",
+                        "Corporate Governance Specialist"
+                    ],
+                    "gps": [
+                        "GPS Engineer",
+                        "Navigation Specialist",
+                        "Geospatial Analyst"
+                    ],
+                    "gpu": [
+                        "GPU Developer",
+                        "Graphics Engineer",
+                        "Hardware Engineer"
+                    ],
+                    "graph": [
+                        "Graph Database Specialist",
+                        "Data Analyst",
+                        "Software Engineer"
+                    ],
+                    "graphql": [
+                        "GraphQL Developer",
+                        "Frontend Developer",
+                        "Backend Developer"
+                    ],
+                    "grid": [
+                        "Grid Engineer",
+                        "Electrical Grid Manager",
+                        "Power Grid Analyst"
+                    ],
+                    "growth": [
+                        "Growth Marketing Manager",
+                        "Business Development Manager",
+                        "Growth Hacker"
+                    ],
+                    "hadoop": [
+                        "Hadoop Developer",
+                        "Big Data Engineer",
+                        "Data Scientist"
+                    ],
+                    "hardware": [
+                        "Hardware Engineer",
+                        "Electrical Engineer",
+                        "Hardware Designer"
+                    ],
+                    "hash": [
+                        "Hashing Specialist",
+                        "Cryptography Engineer",
+                        "Software Developer"
+                    ],
+                    "health": [
+                        "Health Coach",
+                        "Healthcare Consultant",
+                        "Health Informatics Specialist"
+                    ],
+                    "heat": [
+                        "Heat Engineer",
+                        "Thermal Engineer",
+                        "Energy Consultant"
+                    ],
+                    "helm": [
+                        "Helm Developer",
+                        "Kubernetes Engineer",
+                        "Cloud Architect"
+                    ],
+                    "help": [
+                        "Help Desk Technician",
+                        "Customer Support Representative",
+                        "IT Support Specialist"
+                    ],
+                    "heuristic": [
+                        "Heuristic Specialist",
+                        "AI Researcher",
+                        "Data Scientist"
+                    ],
+                    "high": [
+                        "High Frequency Trader",
+                        "High Performance Computing Engineer",
+                        "Electrical Engineer"
+                    ],
+                    "hiring": [
+                        "Hiring Manager",
+                        "Talent Acquisition Specialist",
+                        "Recruiter"
+                    ],
+                    "html": [
+                        "HTML Developer",
+                        "Web Developer",
+                        "Frontend Developer"
+                    ],
+                    "http": [
+                        "HTTP Developer",
+                        "Web Developer",
+                        "Backend Engineer"
+                    ],
+                    "human": [
+                        "Human Resources Specialist",
+                        "Human Capital Manager",
+                        "HR Business Partner"
+                    ],
+                    "hybrid": [
+                        "Hybrid Cloud Architect",
+                        "Hybrid App Developer",
+                        "Hybrid Work Consultant"
+                    ],
+                    "hydraulic": [
+                        "Hydraulic Engineer",
+                        "Fluid Systems Engineer",
+                        "Mechanical Engineer"
+                    ],
+                    "ibm": [
+                        "IBM Consultant",
+                        "IBM Cloud Developer",
+                        "Software Engineer"
+                    ],
+                    "icu": [
+                        "ICU Nurse",
+                        "Critical Care Specialist",
+                        "ICU Technician"
+                    ],
+                    "ide": [
+                        "IDE Developer",
+                        "Software Engineer",
+                        "System Developer"
+                    ],
+                    "identity": [
+                        "Identity Manager",
+                        "Identity Access Specialist",
+                        "Security Analyst"
+                    ],
+                    "image": [
+                        "Image Processing Engineer",
+                        "Computer Vision Engineer",
+                        "Photographer"
+                    ],
+                    "implementation": [
+                        "Implementation Specialist",
+                        "Implementation Consultant",
+                        "Project Manager"
+                    ],
+                    "import": [
+                        "Import Manager",
+                        "Supply Chain Analyst",
+                        "Import Specialist"
+                    ],
+                    "income": [
+                        "Income Tax Specialist",
+                        "Financial Planner",
+                        "Accountant"
+                    ],
+                    "index": [
+                        "Index Analyst",
+                        "Financial Analyst",
+                        "Data Scientist"
+                    ],
+                    "industrial": [
+                        "Industrial Engineer",
+                        "Manufacturing Specialist",
+                        "Production Engineer"
+                    ],
+                    "information": [
+                        "Information Technology Specialist",
+                        "Information Architect",
+                        "Data Scientist"
+                    ],
+                    "infrastructure": [
+                        "Infrastructure Engineer",
+                        "Systems Administrator",
+                        "Cloud Architect"
+                    ],
+                    "innovation": [
+                        "Innovation Manager",
+                        "Product Development Specialist",
+                        "Innovation Consultant"
+                    ],
+                    "input": [
+                        "Input Analyst",
+                        "Data Entry Specialist",
+                        "Database Administrator"
+                    ],
+                    "inspection": [
+                        "Inspection Specialist",
+                        "Quality Control Inspector",
+                        "Compliance Officer"
+                    ],
+                    "installation": [
+                        "Installation Specialist",
+                        "Field Technician",
+                        "Service Engineer"
+                    ],
+                    "instance": [
+                        "Instance Manager",
+                        "Cloud Engineer",
+                        "System Architect"
+                    ],
+                    "integration": [
+                        "Integration Specialist",
+                        "Software Integration Engineer",
+                        "DevOps Engineer"
+                    ],
+                    "interactive": [
+                        "Interactive Designer",
+                        "Interactive Developer",
+                        "Game Developer"
+                    ],
+                    "interface": [
+                        "Interface Designer",
+                        "UI/UX Designer",
+                        "Frontend Developer"
+                    ],
+                    "internal": [
+                        "Internal Auditor",
+                        "Internal Consultant",
+                        "Internal Communications Specialist"
+                    ],
+    "international": [
+        "International Business Manager",
+        "Global Sales Manager",
+        "International Relations Specialist"
+    ],
+    "internet": [
+        "Internet Developer",
+        "Network Engineer",
+        "Web Developer"
+    ],
+    "inventory": [
+        "Inventory Manager",
+        "Supply Chain Coordinator",
+        "Logistics Manager"
+    ],
+    "investment": [
+        "Investment Analyst",
+        "Portfolio Manager",
+        "Financial Advisor"
+    ],
+    "iot": [
+        "IoT Developer",
+        "IoT Solutions Architect",
+        "IoT Engineer"
+    ],
+    "ios": [
+        "iOS Developer",
+        "Mobile App Developer",
+        "iOS Engineer"
+    ],
+    "ip": [
+        "IP Attorney",
+        "IP Manager",
+        "Intellectual Property Specialist"
+    ],
+    "iso": [
+        "ISO Consultant",
+        "Quality Assurance Specialist",
+        "Compliance Officer"
+    ],
+    "it": [
+        "IT Specialist",
+        "IT Manager",
+        "IT Support Specialist"
+    ],
+    "java": [
+        "Java Developer",
+        "Software Engineer",
+        "Backend Developer"
+    ],
+    "javascript": [
+        "JavaScript Developer",
+        "Frontend Developer",
+        "Web Developer"
+    ],
+    "jenkins": [
+        "Jenkins Engineer",
+        "DevOps Engineer",
+        "Automation Engineer"
+    ],
+    "jquery": [
+        "jQuery Developer",
+        "Frontend Developer",
+        "Web Developer"
+    ],
+    "json": [
+        "JSON Developer",
+        "Backend Developer",
+        "Full Stack Developer"
+    ],
+    "jupyter": [
+        "Jupyter Notebook Developer",
+        "Data Scientist",
+        "Machine Learning Engineer"
+    ],
+    "kafka": [
+        "Kafka Developer",
+        "Big Data Engineer",
+        "Data Engineer"
+    ],
+    "keras": [
+        "Keras Developer",
+        "Machine Learning Engineer",
+        "AI Specialist"
+    ],
+    "kernel": [
+        "Kernel Developer",
+        "System Programmer",
+        "Linux Kernel Engineer"
+    ],
+    "key": [
+        "Key Account Manager",
+        "Key Engineer",
+        "Software Developer"
+    ],
+    "knowledge": [
+        "Knowledge Manager",
+        "Knowledge Base Administrator",
+        "Content Specialist"
+    ],
+    "kotlin": [
+        "Kotlin Developer",
+        "Mobile App Developer",
+        "Android Developer"
+    ],
+    "kubernetes": [
+        "Kubernetes Engineer",
+        "Cloud Engineer",
+        "DevOps Engineer"
+    ],
+    "laboratory": [
+        "Laboratory Technician",
+        "Lab Manager",
+        "Research Scientist"
+    ],
+    "lambda": [
+        "Lambda Developer",
+        "Cloud Solutions Architect",
+        "AWS Engineer"
+    ],
+    "language": [
+        "Language Specialist",
+        "Language Developer",
+        "Translator"
+    ],
+    "laravel": [
+        "Laravel Developer",
+        "PHP Developer",
+        "Backend Developer"
+    ],
+    "law": [
+        "Lawyer",
+        "Legal Consultant",
+        "Compliance Officer"
+    ],
+    "layer": [
+        "Layer Engineer",
+        "Software Architect",
+        "Network Architect"
+    ],
+    "layout": [
+        "Layout Designer",
+        "Graphic Designer",
+        "UI Designer"
+    ],
+    "leadership": [
+        "Leadership Development Specialist",
+        "Team Leader",
+        "Project Manager"
+    ],
+    "learning": [
+        "Learning and Development Manager",
+        "Corporate Trainer",
+        "Instructional Designer"
+    ],
+    "legal": [
+        "Legal Advisor",
+        "Paralegal",
+        "Corporate Lawyer"
+    ],
+    "library": [
+        "Library Technician",
+        "Library Manager",
+        "Software Librarian"
+    ],
+    "license": [
+        "License Manager",
+        "Software Licensing Specialist",
+        "Compliance Officer"
+    ],
+    "life": [
+        "Life Coach",
+        "Life Science Researcher",
+        "Clinical Researcher"
+    ],
+    "light": [
+        "Lighting Designer",
+        "Lighting Technician",
+        "Lighting Engineer"
+    ],
+    "linear": [
+        "Linear Programming Analyst",
+        "Optimization Engineer",
+        "Mathematical Modeler"
+    ],
+    "linux": [
+        "Linux Administrator",
+        "Linux Systems Engineer",
+        "Linux Developer"
+    ],
+    "listening": [
+        "Listening Specialist",
+        "Audio Engineer",
+        "Communications Specialist"
+    ],
+    "load": [
+        "Load Engineer",
+        "Load Balancing Specialist",
+        "Performance Engineer"
+    ],
+    "local": [
+        "Local SEO Specialist",
+        "Localization Manager",
+        "Local Marketing Manager"
+    ],
+    "location": [
+        "Location Manager",
+        "Geospatial Analyst",
+        "GIS Developer"
+    ],
+    "logic": [
+        "Logic Engineer",
+        "Software Developer",
+        "Data Analyst"
+    ],
+    "logistics": [
+        "Logistics Manager",
+        "Supply Chain Analyst",
+        "Operations Manager"
+    ],
+    "loss": [
+        "Loss Prevention Specialist",
+        "Risk Manager",
+        "Data Loss Prevention Engineer"
+    ],
+    "machine": [
+        "Machine Learning Engineer",
+        "Data Scientist",
+        "Automation Engineer"
+    ],
+    "macro": [
+        "Macro Developer",
+        "Excel Macro Specialist",
+        "Automated System Developer"
+    ],
+    "magento": [
+        "Magento Developer",
+        "E-commerce Developer",
+        "Web Developer"
+    ],
+    "mail": [
+        "Email Marketing Specialist",
+        "Mail Server Administrator",
+        "E-mail Developer"
+    ],
+    "maintenance": [
+        "Maintenance Engineer",
+        "Maintenance Manager",
+        "Facilities Manager"
+    ],
+    "management": [
+        "Management Consultant",
+        "Project Manager",
+        "Operations Manager"
+    ],
+    "manufacturing": [
+        "Manufacturing Engineer",
+        "Production Manager",
+        "Quality Control Specialist"
+    ],
+    "market": [
+        "Marketing Manager",
+        "Market Analyst",
+        "Product Manager"
+    ],
+    "marketing": [
+        "Marketing Specialist",
+        "Digital Marketing Manager",
+        "Marketing Analyst"
+    ],
+    "material": [
+        "Materials Engineer",
+        "Material Scientist",
+        "Supply Chain Manager"
+    ],
+    "mathematical": [
+        "Mathematical Modeler",
+        "Mathematical Analyst",
+        "Data Scientist"
+    ],
+    "matlab": [
+        "MATLAB Developer",
+        "Data Analyst",
+        "Software Engineer"
+    ],
+    "maven": [
+        "Maven Developer",
+        "Java Developer",
+        "Software Engineer"
+    ],
+    "media": [
+        "Media Specialist",
+        "Content Manager",
+        "Media Buyer"
+    ],
+    "medical": [
+        "Medical Researcher",
+        "Medical Technician",
+        "Healthcare Consultant"
+    ],
+    "memory": [
+        "Memory Architect",
+        "Memory Management Specialist",
+        "Software Developer"
+    ],
+    "mental": [
+        "Mental Health Counselor",
+        "Mental Health Specialist",
+        "Psychologist"
+    ],
+    "async": [
+        "Async Developer",
+        "JavaScript Developer",
+        "Frontend Developer"
+    ],
+    "audio": [
+        "Audio Engineer",
+        "Sound Designer",
+        "Music Producer"
+    ],
+    "authentication": [
+        "Authentication Engineer",
+        "Security Specialist",
+        "Identity Access Management Specialist"
+    ],
+    "backup": [
+        "Backup Engineer",
+        "System Administrator",
+        "Disaster Recovery Specialist"
+    ],
+    "balancing": [
+        "Load Balancing Engineer",
+        "Performance Engineer",
+        "Systems Administrator"
+    ],
+    "batch": [
+        "Batch Processing Engineer",
+        "Data Scientist",
+        "Systems Analyst"
+    ],
+    "behavioral": [
+        "Behavioral Analyst",
+        "Behavioral Health Specialist",
+        "Research Scientist"
+    ],
+    "benchmarking": [
+        "Benchmarking Specialist",
+        "Performance Analyst",
+        "Software Engineer"
+    ],
+    "blueprint": [
+        "Blueprint Designer",
+        "Architect",
+        "Civil Engineer"
+    ],
+    "bootstrap": [
+        "Frontend Developer",
+        "Web Developer",
+        "UI Developer"
+    ],
+    "circuit": [
+        "Circuit Designer",
+        "Electrical Engineer",
+        "Systems Engineer"
+    ],
+    "cisco": [
+        "Cisco Network Engineer",
+        "Network Administrator",
+        "Systems Engineer"
+    ],
+    "civil": [
+        "Civil Engineer",
+        "Civil Project Manager",
+        "Construction Manager"
+    ],
+    "claims": [
+        "Claims Adjuster",
+        "Claims Manager",
+        "Insurance Analyst"
+    ],
+    "clean": [
+        "Clean Energy Specialist",
+        "Environmental Consultant",
+        "Sustainability Manager"
     ]
 }
