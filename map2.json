@@ -1,6 +1,4837 @@
 {
-    "accounts receivable": ["Accounts Receivable Clerk", "Billing Specialist", "Revenue Analyst"],
-    "aerospace engineering": ["Aerospace Engineer", "Aircraft Designer", "Propulsion Engineer"],
-    "agile development": ["Agile Developer", "Scrum Developer", "Software Engineer"],
-    "artificial intelligence": ["AI Engineer", "Machine Learning Specialist", "AI Research Scientist"]
-}
+    "accounts payable": [
+        "Accounts Payable Specialist",
+        "Accounts Payable Clerk",
+        "Accounting Assistant"
+    ],
+    "accounts receivable": [
+        "Accounts Receivable Specialist",
+        "Billing Specialist",
+        "Credit Analyst"
+    ],
+    "aerospace engineering": [
+        "Aerospace Engineer",
+        "Avionics Engineer",
+        "Flight Test Engineer"
+    ],
+    "agile development": [
+        "Scrum Master",
+        "Agile Coach",
+        "Software Developer"
+    ],
+    "agile management": [
+        "Agile Project Manager",
+        "Product Owner",
+        "Scrum Master"
+    ],
+    "agricultural science": [
+        "Agricultural Scientist",
+        "Farm Manager",
+        "Soil and Plant Scientist"
+    ],
+    "air conditioning": [
+        "HVAC Technician",
+        "Air Conditioning Mechanic",
+        "Facilities Technician"
+    ],
+    "aircraft maintenance": [
+        "Aircraft Maintenance Technician",
+        "Avionics Technician",
+        "Aerospace Maintenance Specialist"
+    ],
+    "algorithm design": [
+        "Algorithm Engineer",
+        "Machine Learning Engineer",
+        "Data Scientist"
+    ],
+    "android development": [
+        "Android Developer",
+        "Mobile App Developer",
+        "Software Engineer"
+    ],
+    "angular development": [
+        "Angular Developer",
+        "Frontend Developer",
+        "Web Developer"
+    ],
+    "antenna design": [
+        "RF Engineer",
+        "Antenna Engineer",
+        "Microwave Engineer"
+    ],
+    "application development": [
+        "Application Developer",
+        "Software Engineer",
+        "Mobile Developer"
+    ],
+    "application security": [
+        "Application Security Engineer",
+        "Cybersecurity Analyst",
+        "Security Consultant"
+    ],
+    "artificial intelligence": [
+        "AI Engineer",
+        "Machine Learning Engineer",
+        "Data Scientist"
+    ],
+    "asset management": [
+        "Asset Manager",
+        "Financial Analyst",
+        "Portfolio Manager"
+    ],
+    "audio engineering": [
+        "Audio Engineer",
+        "Sound Designer",
+        "Music Producer"
+    ],
+    "audit planning": [
+        "Audit Manager",
+        "Internal Auditor",
+        "Compliance Officer"
+    ],
+    "auto cad": [
+        "CAD Technician",
+        "Drafter",
+        "Architectural Designer"
+    ],
+    "automated testing": [
+        "Automation Tester",
+        "QA Engineer",
+        "Test Automation Engineer"
+    ],
+    "azure cloud": [
+        "Azure Cloud Engineer",
+        "Cloud Solutions Architect",
+        "DevOps Engineer"
+    ],
+    "backend development": [
+        "Backend Developer",
+        "Software Engineer",
+        "Full Stack Developer"
+    ],
+    "backup management": [
+        "Backup Administrator",
+        "Systems Administrator",
+        "IT Support Specialist"
+    ],
+    "banking operations": [
+        "Operations Analyst",
+        "Banking Specialist",
+        "Financial Operations Manager"
+    ],
+    "batch processing": [
+        "Batch Processing Operator",
+        "Data Analyst",
+        "Operations Specialist"
+    ],
+    "battery technology": [
+        "Battery Engineer",
+        "Energy Storage Engineer",
+        "Electrical Engineer"
+    ],
+    "behavioral analytics": [
+        "Behavioral Analyst",
+        "Data Scientist",
+        "Market Research Analyst"
+    ],
+    "benefits administration": [
+        "Benefits Administrator",
+        "HR Specialist",
+        "Compensation Analyst"
+    ],
+    "big data": [
+        "Big Data Engineer",
+        "Data Scientist",
+        "Data Analyst"
+    ],
+    "biomedical engineering": [
+        "Biomedical Engineer",
+        "Clinical Engineer",
+        "Medical Device Engineer"
+    ],
+    "blockchain development": [
+        "Blockchain Developer",
+        "Smart Contract Developer",
+        "Blockchain Engineer"
+    ],
+    "brand management": [
+        "Brand Manager",
+        "Marketing Manager",
+        "Product Manager"
+    ],
+    "bridge engineering": [
+        "Bridge Engineer",
+        "Structural Engineer",
+        "Civil Engineer"
+    ],
+    "broadcast engineering": [
+        "Broadcast Engineer",
+        "Audio Engineer",
+        "Broadcast Technician"
+    ],
+    "budget analysis": [
+        "Budget Analyst",
+        "Financial Analyst",
+        "Cost Estimator"
+    ],
+    "budget management": [
+        "Budget Manager",
+        "Financial Manager",
+        "Project Manager"
+    ],
+    "business analysis": [
+        "Business Analyst",
+        "Data Analyst",
+        "Systems Analyst"
+    ],
+    "business development": [
+        "Business Development Manager",
+        "Sales Executive",
+        "Account Manager"
+    ],
+    "business intelligence": [
+        "BI Analyst",
+        "Data Analyst",
+        "BI Developer"
+    ],
+    "business planning": [
+        "Business Planner",
+        "Strategic Planner",
+        "Operations Analyst"
+    ],
+    "business strategy": [
+        "Strategy Manager",
+        "Consultant",
+        "Business Development Specialist"
+    ],
+    "cable installation": [
+        "Cable Installer",
+        "Network Technician",
+        "Telecommunications Technician"
+    ],
+    "campaign management": [
+        "Campaign Manager",
+        "Marketing Specialist",
+        "Digital Marketer"
+    ],
+    "capital budgeting": [
+        "Financial Analyst",
+        "Investment Analyst",
+        "Portfolio Manager"
+    ],
+    "carbon accounting": [
+        "Environmental Accountant",
+        "Sustainability Analyst",
+        "Carbon Consultant"
+    ],
+    "care coordination": [
+        "Care Coordinator",
+        "Case Manager",
+        "Healthcare Administrator"
+    ],
+    "cash management": [
+        "Cash Manager",
+        "Treasury Analyst",
+        "Financial Analyst"
+    ],
+    "change management": [
+        "Change Manager",
+        "Organizational Development Specialist",
+        "HR Specialist"
+    ],
+    "channel marketing": [
+        "Channel Marketing Manager",
+        "Partnership Manager",
+        "Sales Manager"
+    ],
+    "chemical engineering": [
+        "Chemical Engineer",
+        "Process Engineer",
+        "Product Development Scientist"
+    ],
+    "circuit design": [
+        "Circuit Design Engineer",
+        "Electronics Engineer",
+        "Hardware Engineer"
+    ],
+    "civil engineering": [
+        "Civil Engineer",
+        "Structural Engineer",
+        "Project Engineer"
+    ],
+    "claims processing": [
+        "Claims Processor",
+        "Insurance Adjuster",
+        "Claims Analyst"
+    ],
+    "class management": [
+        "Teacher",
+        "Education Coordinator",
+        "Classroom Manager"
+    ],
+    "client relations": [
+        "Client Relations Manager",
+        "Account Manager",
+        "Customer Success Specialist"
+    ],
+    "clinical research": [
+        "Clinical Research Associate",
+        "Clinical Scientist",
+        "Research Coordinator"
+    ],
+    "cloud architecture": [
+        "Cloud Architect",
+        "Solutions Architect",
+        "Cloud Engineer"
+    ],
+    "cloud computing": [
+        "Cloud Engineer",
+        "DevOps Engineer",
+        "Cloud Consultant"
+    ],
+    "cloud infrastructure": [
+        "Cloud Infrastructure Engineer",
+        "Systems Administrator",
+        "Network Engineer"
+    ],
+    "cloud migration": [
+        "Cloud Migration Specialist",
+        "Cloud Architect",
+        "IT Consultant"
+    ],
+    "cloud security": [
+        "Cloud Security Engineer",
+        "Cybersecurity Analyst",
+        "Information Security Specialist"
+    ],
+    "code review": [
+        "Code Reviewer",
+        "Software Engineer",
+        "Lead Developer"
+    ],
+    "cognitive computing": [
+        "Cognitive Computing Engineer",
+        "AI Developer",
+        "Machine Learning Engineer"
+    ],
+    "commercial banking": [
+        "Commercial Banker",
+        "Relationship Manager",
+        "Credit Analyst"
+    ],
+    "communication systems": [
+        "Communications Engineer",
+        "Network Architect",
+        "Telecommunications Specialist"
+    ],
+    "component testing": [
+        "Test Engineer",
+        "Quality Assurance Specialist",
+        "Component Test Analyst"
+    ],
+    "computer networking": [
+        "Network Engineer",
+        "Systems Administrator",
+        "IT Support Specialist"
+    ],
+    "computer programming": [
+        "Software Developer",
+        "Programmer Analyst",
+        "Full Stack Developer"
+    ],
+    "computer vision": [
+        "Computer Vision Engineer",
+        "AI Developer",
+        "Machine Learning Engineer"
+    ],
+    "configuration management": [
+        "Configuration Manager",
+        "Systems Administrator",
+        "DevOps Engineer"
+    ],
+    "construction management": [
+        "Construction Manager",
+        "Project Manager",
+        "Construction Superintendent"
+    ],
+    "content creation": [
+        "Content Creator",
+        "Digital Content Specialist",
+        "Social Media Manager"
+    ],
+    "content management": [
+        "Content Manager",
+        "Content Strategist",
+        "Web Content Administrator"
+    ],
+    "content marketing": [
+        "Content Marketing Manager",
+        "Marketing Specialist",
+        "SEO Specialist"
+    ],
+    "content strategy": [
+        "Content Strategist",
+        "Marketing Strategist",
+        "Content Manager"
+    ],
+    "contract management": [
+        "Contract Manager",
+        "Legal Contracts Specialist",
+        "Procurement Specialist"
+    ],
+    "contract negotiation": [
+        "Contract Negotiator",
+        "Procurement Manager",
+        "Legal Advisor"
+    ],
+    "control systems": [
+        "Control Systems Engineer",
+        "Automation Engineer",
+        "Systems Engineer"
+    ],
+    "corporate communications": [
+        "Corporate Communications Manager",
+        "Public Relations Specialist",
+        "Media Relations Specialist"
+    ],
+    "corporate finance": [
+        "Corporate Finance Manager",
+        "Financial Analyst",
+        "Investment Banker"
+    ],
+    "corporate law": [
+        "Corporate Lawyer",
+        "Legal Counsel",
+        "Corporate Counsel"
+    ],
+    "cost accounting": [
+        "Cost Accountant",
+        "Cost Analyst",
+        "Financial Analyst"
+    ],
+    "cost analysis": [
+        "Cost Analyst",
+        "Financial Analyst",
+        "Budget Analyst"
+    ],
+    "cost management": [
+        "Cost Manager",
+        "Project Manager",
+        "Financial Manager"
+    ],
+    "credit analysis": [
+        "Credit Analyst",
+        "Risk Analyst",
+        "Financial Analyst"
+    ],
+    "crisis management": [
+        "Crisis Manager",
+        "Disaster Recovery Specialist",
+        "Emergency Response Coordinator"
+    ],
+    "critical thinking": [
+        "Analyst",
+        "Consultant",
+        "Project Manager"
+    ],
+    "cross marketing": [
+        "Marketing Manager",
+        "Partnership Manager",
+        "Brand Strategist"
+    ],
+    "customer experience": [
+        "Customer Experience Manager",
+        "UX Designer",
+        "Customer Service Representative"
+    ],
+    "customer relations": [
+        "Customer Relations Manager",
+        "Client Relations Specialist",
+        "Customer Service Representative"
+    ],
+    "customer service": [
+        "Customer Service Representative",
+        "Customer Support Specialist",
+        "Service Desk Analyst"
+    ],
+    "customer success": [
+        "Customer Success Manager",
+        "Client Success Specialist",
+        "Customer Relationship Manager"
+    ],
+    "cyber security": [
+        "Cybersecurity Analyst",
+        "Security Engineer",
+        "Information Security Officer"
+    ],
+    "data analysis": [
+        "Data Analyst",
+        "Business Analyst",
+        "Data Scientist"
+    ],
+    "data analytics": [
+        "Data Analyst",
+        "Business Intelligence Analyst",
+        "Data Scientist"
+    ],
+    "data architecture": [
+        "Data Architect",
+        "Database Architect",
+        "Data Engineer"
+    ],
+    "data engineering": [
+        "Data Engineer",
+        "Big Data Engineer",
+        "Data Architect"
+    ],
+    "data governance": [
+        "Data Governance Specialist",
+        "Data Analyst",
+        "Compliance Officer"
+    ],
+    "data integration": [
+        "Data Integration Specialist",
+        "ETL Developer",
+        "Data Engineer"
+    ],
+    "data management": [
+        "Data Manager",
+        "Data Administrator",
+        "Data Analyst"
+    ],
+    "data mining": [
+        "Data Scientist",
+        "Data Analyst",
+        "Business Intelligence Analyst"
+    ],
+    "data modeling": [
+        "Data Modeler",
+        "Database Developer",
+        "Data Architect"
+    ],
+    "data processing": [
+        "Data Processor",
+        "Data Entry Specialist",
+        "Data Analyst"
+    ],
+    "data science": [
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "Data Analyst"
+    ],
+    "data visualization": [
+        "Data Visualization Specialist",
+        "Data Analyst",
+        "Business Intelligence Analyst"
+    ],
+    "database administration": [
+        "Database Administrator",
+        "SQL Database Administrator",
+        "Database Engineer"
+    ],
+    "database design": [
+        "Database Designer",
+        "Data Architect",
+        "SQL Developer"
+    ],
+    "database management": [
+        "Database Manager",
+        "Database Administrator",
+        "Data Analyst"
+    ],
+    "deep learning": [
+        "Deep Learning Engineer",
+        "Machine Learning Engineer",
+        "AI Researcher"
+    ],
+    "demand planning": [
+        "Demand Planner",
+        "Supply Chain Planner",
+        "Inventory Planner"
+    ],
+    "desktop publishing": [
+        "Desktop Publishing Specialist",
+        "Graphic Designer",
+        "Publication Designer"
+    ],
+    "desktop support": [
+        "Desktop Support Technician",
+        "IT Support Specialist",
+        "Help Desk Support"
+    ],
+    "digital design": [
+        "Digital Designer",
+        "Graphic Designer",
+        "UI/UX Designer"
+    ],
+    "digital marketing": [
+        "Digital Marketing Specialist",
+        "SEO Specialist",
+        "Social Media Manager"
+    ],
+    "digital media": [
+        "Digital Media Specialist",
+        "Social Media Manager",
+        "Digital Marketing Manager"
+    ],
+    "digital strategy": [
+        "Digital Strategy Manager",
+        "Marketing Strategist",
+        "Digital Marketing Specialist"
+    ],
+    "digital transformation": [
+        "Digital Transformation Manager",
+        "IT Transformation Specialist",
+        "Digital Solutions Architect"
+    ],
+    "direct marketing": [
+        "Direct Marketing Manager",
+        "Marketing Specialist",
+        "Campaign Manager"
+    ],
+    "disaster recovery": [
+        "Disaster Recovery Specialist",
+        "IT Consultant",
+        "Business Continuity Planner"
+    ],
+    "document management": [
+        "Document Manager",
+        "Records Manager",
+        "Document Control Specialist"
+    ],
+    "domain management": [
+        "Domain Manager",
+        "DNS Administrator",
+        "Systems Administrator"
+    ],
+    "drone operations": [
+        "Drone Operator",
+        "UAV Pilot",
+        "Drone Technician"
+    ],
+    "drug development": [
+        "Pharmaceutical Researcher",
+        "Clinical Research Associate",
+        "Medical Scientist"
+    ],
+    "dynamic programming": [
+        "Software Developer",
+        "Computer Programmer",
+        "Backend Developer"
+    ],
+    "electrical engineering": [
+        "Electrical Engineer",
+        "Power Systems Engineer",
+        "Electronics Engineer"
+    ],
+    "electronic design": [
+        "Electronic Design Engineer",
+        "Hardware Engineer",
+        "Product Development Engineer"
+    ],
+    "email marketing": [
+        "Email Marketing Manager",
+        "Email Campaign Specialist",
+        "Marketing Automation Specialist"
+    ],
+    "emergency management": [
+        "Emergency Management Specialist",
+        "Disaster Response Coordinator",
+        "Crisis Response Manager"
+    ],
+    "employee relations": [
+        "Employee Relations Manager",
+        "HR Specialist",
+        "Labor Relations Specialist"
+    ],
+    "energy management": [
+        "Energy Manager",
+        "Energy Analyst",
+        "Sustainability Consultant"
+    ],
+    "enterprise architecture": [
+        "Enterprise Architect",
+        "Solutions Architect",
+        "IT Architect"
+    ],
+    "environmental engineering": [
+        "Environmental Engineer",
+        "Environmental Consultant",
+        "Sustainability Engineer"
+    ],
+    "environmental management": [
+        "Environmental Manager",
+        "Sustainability Manager",
+        "Environmental Consultant"
+    ],
+    "equipment maintenance": [
+        "Maintenance Technician",
+        "Facilities Maintenance Manager",
+        "Equipment Maintenance Specialist"
+    ],
+    "event management": [
+        "Event Planner",
+        "Event Coordinator",
+        "Event Manager"
+    ],
+    "event planning": [
+        "Event Planner",
+        "Event Coordinator",
+        "Meeting Planner"
+    ],
+    "executive leadership": [
+        "CEO",
+        "Executive Director",
+        "Chief Operating Officer"
+    ],
+    "expense management": [
+        "Expense Manager",
+        "Financial Analyst",
+        "Cost Analyst"
+    ],
+    "export management": [
+        "Export Manager",
+        "International Trade Specialist",
+        "Logistics Manager"
+    ],
+    "facility management": [
+        "Facility Manager",
+        "Operations Manager",
+        "Building Services Manager"
+    ],
+    "factory management": [
+        "Factory Manager",
+        "Production Manager",
+        "Operations Manager"
+    ],
+    "feature engineering": [
+        "Data Engineer",
+        "Machine Learning Engineer",
+        "Data Scientist"
+    ],
+    "financial analysis": [
+        "Financial Analyst",
+        "Investment Analyst",
+        "Risk Analyst"
+    ],
+    "financial management": [
+        "Financial Manager",
+        "CFO",
+        "Financial Controller"
+    ],
+    "financial modeling": [
+        "Financial Analyst",
+        "Investment Analyst",
+        "Risk Analyst"
+    ],
+    "financial planning": [
+        "Financial Planner",
+        "Wealth Manager",
+        "Financial Advisor"
+    ],
+    "fleet management": [
+        "Fleet Manager",
+        "Logistics Manager",
+        "Operations Manager"
+    ],
+    "food safety": [
+        "Food Safety Manager",
+        "Quality Control Specialist",
+        "Food Safety Consultant"
+    ],
+    "forensic accounting": [
+        "Forensic Accountant",
+        "Auditor",
+        "Financial Investigator"
+    ],
+    "forest management": [
+        "Forest Manager",
+        "Wildlife Biologist",
+        "Conservation Specialist"
+    ],
+    "frontend development": [
+        "Frontend Developer",
+        "UI Developer",
+        "Web Developer"
+    ],
+    "full stack": [
+        "Full Stack Developer",
+        "Software Engineer",
+        "Web Developer"
+    ],
+    "fund management": [
+        "Fund Manager",
+        "Investment Analyst",
+        "Portfolio Manager"
+    ],
+    "game development": [
+        "Game Developer",
+        "Game Designer",
+        "Game Programmer"
+    ],
+    "gas engineering": [
+        "Gas Engineer",
+        "Pipeline Engineer",
+        "Mechanical Engineer"
+    ],
+    "general ledger": [
+        "General Ledger Accountant",
+        "Financial Analyst",
+        "Accounting Manager"
+    ],
+    "genetic engineering": [
+        "Genetic Engineer",
+        "Biotechnology Specialist",
+        "Genomics Researcher"
+    ],
+    "geographic information": [
+        "GIS Analyst",
+        "Geospatial Analyst",
+        "Cartographer"
+    ],
+    "global marketing": [
+        "Global Marketing Manager",
+        "Marketing Director",
+        "International Marketing Specialist"
+    ],
+    "google analytics": [
+        "Digital Marketing Analyst",
+        "SEO Specialist",
+        "Data Analyst"
+    ],
+    "grant management": [
+        "Grant Manager",
+        "Grant Administrator",
+        "Fundraising Coordinator"
+    ],
+    "graphic design": [
+        "Graphic Designer",
+        "UI Designer",
+        "Visual Designer"
+    ],
+    "group facilitation": [
+        "Group Facilitator",
+        "Training Specialist",
+        "HR Consultant"
+    ],
+    "growth marketing": [
+        "Growth Marketing Manager",
+        "Digital Marketing Specialist",
+        "Marketing Analyst"
+    ],
+    "hardware design": [
+        "Hardware Engineer",
+        "Electronics Designer",
+        "Product Development Engineer"
+    ],
+    "healthcare management": [
+        "Healthcare Manager",
+        "Hospital Administrator",
+        "Healthcare Consultant"
+    ],
+    "heat transfer": [
+        "Thermal Engineer",
+        "Mechanical Engineer",
+        "Heat Transfer Specialist"
+    ],
+    "help desk": [
+        "Help Desk Technician",
+        "IT Support Specialist",
+        "Technical Support Representative"
+    ],
+    "human resources": [
+        "HR Manager",
+        "HR Specialist",
+        "Recruitment Consultant"
+    ],
+    "image processing": [
+        "Image Processing Engineer",
+        "Computer Vision Engineer",
+        "Data Scientist"
+    ],
+    "industrial design": [
+        "Industrial Designer",
+        "Product Designer",
+        "UX Designer"
+    ],
+    "industrial engineering": [
+        "Industrial Engineer",
+        "Process Improvement Specialist",
+        "Operations Analyst"
+    ],
+    "information architecture": [
+        "Information Architect",
+        "UX Designer",
+        "Web Developer"
+    ],
+    "information security": [
+        "Information Security Analyst",
+        "Cybersecurity Specialist",
+        "Security Engineer"
+    ],
+    "information systems": [
+        "Information Systems Manager",
+        "Systems Analyst",
+        "IT Consultant"
+    ],
+    "information technology": [
+        "IT Manager",
+        "Systems Administrator",
+        "Network Engineer"
+    ],
+    "infrastructure management": [
+        "Infrastructure Manager",
+        "Systems Administrator",
+        "Network Operations Manager"
+    ],
+    "innovation management": [
+        "Innovation Manager",
+        "Product Development Manager",
+        "R&D Specialist"
+    ],
+    "instructional design": [
+        "Instructional Designer",
+        "E-Learning Specialist",
+        "Curriculum Developer"
+    ],
+    "insurance underwriting": [
+        "Underwriting Manager",
+        "Insurance Underwriter",
+        "Risk Analyst"
+    ],
+    "interior design": [
+        "Interior Designer",
+        "Architectural Designer",
+        "Space Planner"
+    ],
+    "internal audit": [
+        "Internal Auditor",
+        "Audit Manager",
+        "Compliance Officer"
+    ],
+    "international business": [
+        "International Business Manager",
+        "Global Business Analyst",
+        "Export Manager"
+    ],
+    "international trade": [
+        "International Trade Specialist",
+        "Import/Export Manager",
+        "Global Supply Chain Manager"
+    ],
+    "inventory control": [
+        "Inventory Manager",
+        "Supply Chain Coordinator",
+        "Warehouse Manager"
+    ],
+    "inventory management": [
+        "Inventory Manager",
+        "Supply Chain Manager",
+        "Logistics Coordinator"
+    ],
+    "investment banking": [
+        "Investment Banker",
+        "Financial Analyst",
+        "M&A Specialist"
+    ],
+    "investment management": [
+        "Portfolio Manager",
+        "Investment Analyst",
+        "Fund Manager"
+    ],
+    "ios development": [
+        "iOS Developer",
+        "Mobile App Developer",
+        "Software Engineer"
+    ],
+    "it management": [
+        "IT Manager",
+        "Systems Administrator",
+        "IT Director"
+    ],
+    "java development": [
+        "Java Developer",
+        "Backend Developer",
+        "Software Engineer"
+    ],
+    "javascript development": [
+        "JavaScript Developer",
+        "Frontend Developer",
+        "Web Developer"
+    ],
+    "knowledge management": [
+        "Knowledge Manager",
+        "Information Manager",
+        "Content Strategist"
+    ],
+    "lab management": [
+        "Laboratory Manager",
+        "Lab Technician",
+        "Clinical Lab Manager"
+    ],
+    "labor relations": [
+        "Labor Relations Specialist",
+        "HR Manager",
+        "Employee Relations Consultant"
+    ],
+    "language processing": [
+        "Natural Language Processing Engineer",
+        "Data Scientist",
+        "AI Engineer"
+    ],
+    "lead generation": [
+        "Lead Generation Specialist",
+        "Sales Development Representative",
+        "Marketing Strategist"
+    ],
+    "leadership development": [
+        "Leadership Development Manager",
+        "HR Manager",
+        "Training and Development Specialist"
+    ],
+    "legal research": [
+        "Legal Researcher",
+        "Paralegal",
+        "Law Clerk"
+    ],
+    "operations management": [
+        "Operations Manager",
+        "Supply Chain Manager",
+        "Project Manager"
+    ],
+    "recruitment management": [
+        "Recruitment Manager",
+        "HR Specialist",
+        "Talent Acquisition Specialist"
+    ],
+    "regulatory affairs": [
+        "Regulatory Affairs Specialist",
+        "Compliance Officer",
+        "Regulatory Manager"
+    ],
+    "research and development": [
+        "R&D Manager",
+        "R&D Scientist",
+        "Product Development Specialist"
+    ],
+    "retail management": [
+        "Retail Manager",
+        "Store Manager",
+        "Operations Manager"
+    ],
+    "sales management": [
+        "Sales Manager",
+        "Regional Sales Director",
+        "Sales Director"
+    ],
+    "salesforce development": [
+        "Salesforce Developer",
+        "Salesforce Administrator",
+        "CRM Developer"
+    ],
+    "security management": [
+        "Security Manager",
+        "Security Consultant",
+        "Cybersecurity Specialist"
+    ],
+    "supply chain management": [
+        "Supply Chain Manager",
+        "Logistics Manager",
+        "Inventory Manager"
+    ],
+    "tax preparation": [
+        "Tax Preparer",
+        "Tax Specialist",
+        "Certified Public Accountant"
+    ],
+
+    "telecommunications": [
+        "Telecommunications Engineer",
+        "Network Engineer",
+        "Telecommunications Technician"
+    ],
+
+    "training and development": [
+        "Training Manager",
+        "Learning and Development Specialist",
+        "HR Specialist"
+    ],
+        "load testing": [
+            "Performance Test Engineer",
+            "QA Engineer",
+            "Load Tester"
+        ],
+        "loan processing": [
+            "Loan Processor",
+            "Mortgage Specialist",
+            "Loan Officer"
+        ],
+        "local marketing": [
+            "Local Marketing Manager",
+            "Regional Marketing Specialist",
+            "Community Outreach Coordinator"
+        ],
+        "logistics management": [
+            "Logistics Manager",
+            "Supply Chain Manager",
+            "Warehouse Operations Manager"
+        ],
+        "machine learning": [
+            "Machine Learning Engineer",
+            "Data Scientist",
+            "AI Specialist"
+        ],
+        "management consulting": [
+            "Management Consultant",
+            "Business Strategy Consultant",
+            "Operations Consultant"
+        ],
+        "manufacturing engineering": [
+            "Manufacturing Engineer",
+            "Production Engineer",
+            "Process Improvement Engineer"
+        ],
+        "market analysis": [
+            "Market Analyst",
+            "Data Analyst",
+            "Market Research Analyst"
+        ],
+        "market research": [
+            "Market Research Analyst",
+            "Consumer Insights Specialist",
+            "Business Analyst"
+        ],
+        "marketing analytics": [
+            "Marketing Analyst",
+            "Data Analyst",
+            "Marketing Data Scientist"
+        ],
+        "marketing automation": [
+            "Marketing Automation Specialist",
+            "CRM Manager",
+            "Email Marketing Specialist"
+        ],
+        "marketing management": [
+            "Marketing Manager",
+            "Brand Manager",
+            "Product Marketing Manager"
+        ],
+        "marketing strategy": [
+            "Marketing Strategist",
+            "Brand Strategy Manager",
+            "Marketing Director"
+        ],
+        "materials engineering": [
+            "Materials Engineer",
+            "Product Development Engineer",
+            "Metallurgical Engineer"
+        ],
+        "materials management": [
+            "Materials Manager",
+            "Inventory Manager",
+            "Supply Chain Manager"
+        ],
+        "mathematical modeling": [
+            "Mathematical Modeler",
+            "Data Scientist",
+            "Operations Research Analyst"
+        ],
+        "mechanical engineering": [
+            "Mechanical Engineer",
+            "Design Engineer",
+            "Product Development Engineer"
+        ],
+        "media planning": [
+            "Media Planner",
+            "Advertising Specialist",
+            "Marketing Strategist"
+        ],
+        "media relations": [
+            "Media Relations Specialist",
+            "Public Relations Manager",
+            "Communications Director"
+        ],
+        "medical coding": [
+            "Medical Coder",
+            "Healthcare Coder",
+            "Medical Billing Specialist"
+        ],
+        "medical imaging": [
+            "Medical Imaging Specialist",
+            "Radiologic Technologist",
+            "Medical Imaging Technician"
+        ],
+        "meeting management": [
+            "Meeting Coordinator",
+            "Event Planner",
+            "Project Manager"
+        ],
+        "mental health": [
+            "Mental Health Counselor",
+            "Clinical Psychologist",
+            "Behavioral Health Specialist"
+        ],
+        "merchandise planning": [
+            "Merchandise Planner",
+            "Retail Planner",
+            "Product Planner"
+        ],
+        "mobile development": [
+            "Mobile Developer",
+            "iOS Developer",
+            "Android Developer"
+        ],
+        "mobile marketing": [
+            "Mobile Marketing Manager",
+            "App Marketing Specialist",
+            "Digital Marketing Manager"
+        ],
+        "model development": [
+            "Data Modeler",
+            "Machine Learning Engineer",
+            "AI Researcher"
+        ],
+        "network administration": [
+            "Network Administrator",
+            "IT Support Specialist",
+            "Systems Administrator"
+        ],
+        "network engineering": [
+            "Network Engineer",
+            "Network Architect",
+            "Telecommunications Engineer"
+        ],
+        "network management": [
+            "Network Manager",
+            "Network Operations Manager",
+            "IT Infrastructure Manager"
+        ],
+        "network security": [
+            "Network Security Engineer",
+            "Cybersecurity Analyst",
+            "Information Security Specialist"
+        ],
+        "neural networks": [
+            "Neural Network Engineer",
+            "AI Researcher",
+            "Machine Learning Engineer"
+        ],
+        "new business": [
+            "Business Development Manager",
+            "Sales Executive",
+            "Account Manager"
+        ],
+        "news writing": [
+            "Journalist",
+            "News Reporter",
+            "Content Writer"
+        ],
+        "node development": [
+            "Node.js Developer",
+            "Backend Developer",
+            "Full Stack Developer"
+        ],
+        "nuclear engineering": [
+            "Nuclear Engineer",
+            "Radiation Protection Specialist",
+            "Nuclear Systems Engineer"
+        ],
+        "nursing management": [
+            "Nurse Manager",
+            "Nursing Supervisor",
+            "Clinical Nurse Leader"
+        ],
+        "object detection": [
+            "Computer Vision Engineer",
+            "AI Developer",
+            "Machine Learning Engineer"
+        ],
+        "office management": [
+            "Office Manager",
+            "Administrative Assistant",
+            "Executive Assistant"
+        ],
+        "oil engineering": [
+            "Petroleum Engineer",
+            "Oil & Gas Engineer",
+            "Drilling Engineer"
+        ],
+        "online marketing": [
+            "Digital Marketing Manager",
+            "SEO Specialist",
+            "PPC Manager"
+        ],
+        "optical engineering": [
+            "Optical Engineer",
+            "Optics Designer",
+            "Photonics Engineer"
+        ],
+        "oracle database": [
+            "Oracle Database Administrator",
+            "Database Engineer",
+            "SQL Developer"
+        ],
+        "organizational development": [
+            "Organizational Development Specialist",
+            "HR Manager",
+            "Change Management Consultant"
+        ],
+        "package design": [
+            "Package Designer",
+            "Graphic Designer",
+            "Product Designer"
+        ],
+        "partner management": [
+            "Partner Manager",
+            "Business Development Manager",
+            "Channel Manager"
+        ],
+        "patient care": [
+            "Patient Care Coordinator",
+            "Registered Nurse",
+            "Healthcare Assistant"
+        ],
+        "pattern recognition": [
+            "Data Scientist",
+            "Machine Learning Engineer",
+            "AI Engineer"
+        ],
+        "payment processing": [
+            "Payment Processor",
+            "Payment Solutions Specialist",
+            "Merchant Services Specialist"
+        ],
+        "people management": [
+            "People Manager",
+            "HR Manager",
+            "Team Lead"
+        ],
+        "performance management": [
+            "Performance Manager",
+            "HR Manager",
+            "Operations Manager"
+        ],
+        "performance optimization": [
+            "Performance Engineer",
+            "Optimization Specialist",
+            "System Performance Analyst"
+        ],
+        "pharmaceutical research": [
+            "Pharmaceutical Research Scientist",
+            "Clinical Research Associate",
+            "Drug Development Specialist"
+        ],
+        "phone support": [
+            "Customer Support Representative",
+            "Phone Support Specialist",
+            "Technical Support Representative"
+        ],
+        "physical security": [
+            "Security Manager",
+            "Physical Security Specialist",
+            "Security Consultant"
+        ],
+        "pipeline management": [
+            "Pipeline Manager",
+            "Operations Manager",
+            "Project Manager"
+        ],
+        "plant management": [
+            "Plant Manager",
+            "Operations Manager",
+            "Manufacturing Manager"
+        ],
+        "portfolio management": [
+            "Portfolio Manager",
+            "Investment Analyst",
+            "Financial Advisor"
+        ],
+        "power engineering": [
+            "Power Engineer",
+            "Electrical Engineer",
+            "Renewable Energy Engineer"
+        ],
+        "predictive analytics": [
+            "Predictive Analytics Specialist",
+            "Data Scientist",
+            "Business Analyst"
+        ],
+        "predictive modeling": [
+            "Predictive Modeling Analyst",
+            "Data Scientist",
+            "Machine Learning Engineer"
+        ],
+        "process engineering": [
+            "Process Engineer",
+            "Manufacturing Engineer",
+            "Production Engineer"
+        ],
+        "process improvement": [
+            "Process Improvement Specialist",
+            "Lean Six Sigma Consultant",
+            "Operations Manager"
+        ],
+        "process management": [
+            "Process Manager",
+            "Operations Manager",
+            "Business Process Analyst"
+        ],
+        "procurement management": [
+            "Procurement Manager",
+            "Purchasing Manager",
+            "Supply Chain Manager"
+        ],
+        "product development": [
+            "Product Development Manager",
+            "Product Designer",
+            "Research and Development Specialist"
+        ],
+        "product management": [
+            "Product Manager",
+            "Product Owner",
+            "Project Manager"
+        ],
+        "product marketing": [
+            "Product Marketing Manager",
+            "Brand Manager",
+            "Marketing Director"
+        ],
+        "production management": [
+            "Production Manager",
+            "Manufacturing Manager",
+            "Operations Manager"
+        ],
+        "program management": [
+            "Program Manager",
+            "Project Manager",
+            "Product Manager"
+        ],
+        "project coordination": [
+            "Project Coordinator",
+            "Operations Coordinator",
+            "Project Manager"
+        ],
+        "project management": [
+            "Project Manager",
+            "Program Manager",
+            "Project Coordinator"
+        ],
+        "property management": [
+            "Property Manager",
+            "Real Estate Manager",
+            "Facilities Manager"
+        ],
+        "public relations": [
+            "Public Relations Manager",
+            "Communications Specialist",
+            "Media Relations Specialist"
+        ],
+        "public speaking": [
+            "Public Speaker",
+            "Trainer",
+            "Motivational Speaker"
+        ],
+        "python development": [
+            "Python Developer",
+            "Software Engineer",
+            "Backend Developer"
+        ],
+        "quality assurance": [
+            "QA Engineer",
+            "Quality Assurance Specialist",
+            "Test Engineer"
+        ],
+        "quality control": [
+            "Quality Control Manager",
+            "QC Specialist",
+            "Manufacturing Quality Inspector"
+        ],
+        "quality engineering": [
+            "Quality Engineer",
+            "Manufacturing Quality Engineer",
+            "Quality Control Engineer"
+        ],
+        "quality management": [
+            "Quality Manager",
+            "Quality Assurance Manager",
+            "Continuous Improvement Specialist"
+        ],
+        "quantitative analysis": [
+            "Quantitative Analyst",
+            "Data Analyst",
+            "Financial Analyst"
+        ],
+        "react development": [
+            "React Developer",
+            "Frontend Developer",
+            "Full Stack Developer"
+        ],
+        "real estate": [
+            "Real Estate Agent",
+            "Real Estate Manager",
+            "Property Manager"
+        ],
+        "release management": [
+            "Release Manager",
+            "DevOps Engineer",
+            "Software Release Manager"
+        ],
+        "remote management": [
+            "Remote Manager",
+            "Operations Manager",
+            "Remote Support Technician"
+        ],
+        "requirements analysis": [
+            "Business Analyst",
+            "Systems Analyst",
+            "Requirements Engineer"
+        ],
+        "research development": [
+            "R&D Manager",
+            "Research Scientist",
+            "Product Development Specialist"
+        ],
+        "resource management": [
+            "Resource Manager",
+            "Project Manager",
+            "Operations Manager"
+        ],
+        "revenue management": [
+            "Revenue Manager",
+            "Pricing Analyst",
+            "Financial Analyst"
+        ],
+        "risk analysis": [
+            "Risk Analyst",
+            "Financial Analyst",
+            "Business Risk Manager"
+        ],
+        "risk assessment": [
+            "Risk Assessor",
+            "Risk Manager",
+            "Compliance Analyst"
+        ], 
+        "risk management": [
+            "Risk Manager",
+            "Compliance Officer",
+            "Risk Analyst"
+        ],
+        "ruby development": [
+            "Ruby Developer",
+            "Backend Developer",
+            "Full Stack Developer"
+        ],
+        "rural development": [
+            "Rural Development Specialist",
+            "Community Development Coordinator",
+            "Agricultural Development Officer"
+        ],
+        "safety management": [
+            "Safety Manager",
+            "Health and Safety Specialist",
+            "Safety Officer"
+        ],
+        "sales analysis": [
+            "Sales Analyst",
+            "Sales Operations Manager",
+            "Revenue Analyst"
+        ],
+            "sales development": [
+                "Sales Development Representative",
+                "Business Development Manager",
+                "Account Executive"
+            ],
+            "sales engineering": [
+                "Sales Engineer",
+                "Technical Sales Engineer",
+                "Solutions Engineer"
+            ],
+            "sales forecasting": [
+                "Sales Forecaster",
+                "Demand Planner",
+                "Sales Operations Manager"
+            ],
+            "sales operations": [
+                "Sales Operations Manager",
+                "Sales Analyst",
+                "Sales Operations Coordinator"
+            ],
+            "scale management": [
+                "Scale Manager",
+                "Project Manager",
+                "Operations Manager"
+            ],
+            "scientific computing": [
+                "Scientific Computing Specialist",
+                "Data Scientist",
+                "Computational Scientist"
+            ],
+            "service delivery": [
+                "Service Delivery Manager",
+                "Client Services Manager",
+                "Operations Manager"
+            ],
+            "service management": [
+                "Service Manager",
+                "Customer Service Manager",
+                "IT Service Manager"
+            ],
+            "shipping management": [
+                "Shipping Manager",
+                "Logistics Manager",
+                "Supply Chain Manager"
+            ],
+            "signal processing": [
+                "Signal Processing Engineer",
+                "DSP Engineer",
+                "Audio Engineer"
+            ],
+            "site management": [
+                "Site Manager",
+                "Construction Site Supervisor",
+                "Project Manager"
+            ],
+            "social marketing": [
+                "Social Marketing Manager",
+                "Social Media Strategist",
+                "Digital Marketing Manager"
+            ],
+            "social media": [
+                "Social Media Manager",
+                "Community Manager",
+                "Digital Marketing Specialist"
+            ],
+            "software architecture": [
+                "Software Architect",
+                "Technical Architect",
+                "Lead Developer"
+            ],
+            "software development": [
+                "Software Developer",
+                "Software Engineer",
+                "Full Stack Developer"
+            ],
+            "software engineering": [
+                "Software Engineer",
+                "Backend Developer",
+                "Full Stack Engineer"
+            ],
+            "software testing": [
+                "Software Tester",
+                "QA Engineer",
+                "Test Engineer"
+            ],
+            "solution architecture": [
+                "Solutions Architect",
+                "Enterprise Architect",
+                "Technical Architect"
+            ],
+            "sound engineering": [
+                "Sound Engineer",
+                "Audio Engineer",
+                "Music Producer"
+            ],
+            "source control": [
+                "Source Control Manager",
+                "Version Control Specialist",
+                "Git Administrator"
+            ],
+            "space planning": [
+                "Space Planner",
+                "Interior Designer",
+                "Facilities Manager"
+            ],
+            "speech recognition": [
+                "Speech Recognition Engineer",
+                "Natural Language Processing Engineer",
+                "AI Engineer"
+            ],
+            "sql development": [
+                "SQL Developer",
+                "Database Developer",
+                "Database Administrator"
+            ],
+            "staff management": [
+                "Staff Manager",
+                "Team Lead",
+                "HR Manager"
+            ],
+            "statistical analysis": [
+                "Statistician",
+                "Data Analyst",
+                "Quantitative Analyst"
+            ],
+            "strategic management": [
+                "Strategic Manager",
+                "Business Strategy Consultant",
+                "Operations Manager"
+            ],
+            "strategic planning": [
+                "Strategic Planner",
+                "Business Development Manager",
+                "Operations Consultant"
+            ],
+            "supply chain": [
+                "Supply Chain Manager",
+                "Logistics Manager",
+                "Operations Manager"
+            ],
+            "system administration": [
+                "System Administrator",
+                "IT Support Specialist",
+                "Network Administrator"
+            ],
+            "system analysis": [
+                "Systems Analyst",
+                "Business Analyst",
+                "IT Consultant"
+            ],
+            "system architecture": [
+                "System Architect",
+                "Solutions Architect",
+                "Technical Architect"
+            ],
+            "system design": [
+                "Systems Designer",
+                "Solution Architect",
+                "Systems Engineer"
+            ],
+            "system development": [
+                "System Developer",
+                "Software Engineer",
+                "Full Stack Developer"
+            ],
+            "system engineering": [
+                "System Engineer",
+                "Software Engineer",
+                "Network Engineer"
+            ],
+            "system integration": [
+                "Systems Integration Engineer",
+                "Integration Specialist",
+                "DevOps Engineer"
+            ],
+            "system management": [
+                "System Manager",
+                "IT Manager",
+                "Infrastructure Manager"
+            ],
+            "system security": [
+                "System Security Specialist",
+                "Cybersecurity Analyst",
+                "Network Security Engineer"
+            ],
+            "systems analysis": [
+                "Systems Analyst",
+                "Business Analyst",
+                "IT Consultant"
+            ],
+            "task management": [
+                "Task Manager",
+                "Project Manager",
+                "Operations Manager"
+            ],
+            "tax accounting": [
+                "Tax Accountant",
+                "Tax Manager",
+                "Certified Public Accountant"
+            ],
+            "team leadership": [
+                "Team Leader",
+                "Project Manager",
+                "Operations Manager"
+            ],
+            "team management": [
+                "Team Manager",
+                "Project Manager",
+                "HR Manager"
+            ],
+            "technical support": [
+                "Technical Support Specialist",
+                "IT Support Technician",
+                "Help Desk Support"
+            ],
+            "technical writing": [
+                "Technical Writer",
+                "Documentation Specialist",
+                "Content Developer"
+            ],
+            "technology management": [
+                "Technology Manager",
+                "IT Director",
+                "Technology Consultant"
+            ],
+            "test automation": [
+                "Test Automation Engineer",
+                "QA Automation Specialist",
+                "Software Engineer"
+            ],
+            "time management": [
+                "Time Management Specialist",
+                "Project Manager",
+                "Operations Coordinator"
+            ],
+            "trade marketing": [
+                "Trade Marketing Manager",
+                "Channel Marketing Specialist",
+                "Retail Marketing Manager"
+            ],
+            "training development": [
+                "Training Development Specialist",
+                "Learning and Development Manager",
+                "Training Coordinator"
+            ],
+            "training management": [
+                "Training Manager",
+                "Learning and Development Specialist",
+                "HR Specialist"
+            ],
+            "transportation management": [
+                "Transportation Manager",
+                "Logistics Manager",
+                "Supply Chain Manager"
+            ],
+            "treasury management": [
+                "Treasury Manager",
+                "Financial Analyst",
+                "Cash Manager"
+            ],
+            "ui design": [
+                "UI Designer",
+                "UX/UI Designer",
+                "Web Designer"
+            ],
+            "unit testing": [
+                "Unit Test Engineer",
+                "QA Engineer",
+                "Software Developer"
+            ],
+            "urban planning": [
+                "Urban Planner",
+                "City Planner",
+                "Municipal Planner"
+            ],
+            "user experience": [
+                "UX Designer",
+                "UX Researcher",
+                "Interaction Designer"
+            ],
+            "user interface": [
+                "UI Designer",
+                "UI Developer",
+                "Web Designer"
+            ],
+            "user research": [
+                "User Researcher",
+                "UX Researcher",
+                "Market Research Analyst"
+            ],
+            "ux design": [
+                "UX Designer",
+                "Interaction Designer",
+                "UI/UX Designer"
+            ],
+            "value engineering": [
+                "Value Engineer",
+                "Cost Reduction Engineer",
+                "Process Improvement Specialist"
+            ],
+            "vendor management": [
+                "Vendor Manager",
+                "Supplier Manager",
+                "Procurement Specialist"
+            ],
+            "version control": [
+                "Version Control Specialist",
+                "Git Administrator",
+                "DevOps Engineer"
+            ],
+            "video editing": [
+                "Video Editor",
+                "Motion Graphics Designer",
+                "Video Producer"
+            ],
+            "video production": [
+                "Video Producer",
+                "Videographer",
+                "Video Editor"
+            ],
+            "virtual reality": [
+                "VR Developer",
+                "VR Engineer",
+                "AR/VR Specialist"
+            ],
+            "visual design": [
+                "Visual Designer",
+                "UI/UX Designer",
+                "Graphic Designer"
+            ],
+            "voice recognition": [
+                "Voice Recognition Engineer",
+                "Speech Recognition Engineer",
+                "AI Engineer"
+            ],
+            "vue development": [
+                "Vue.js Developer",
+                "Frontend Developer",
+                "Web Developer"
+            ],
+            "warehouse management": [
+                "Warehouse Manager",
+                "Logistics Manager",
+                "Inventory Manager"
+            ],
+            "water management": [
+                "Water Resource Manager",
+                "Environmental Engineer",
+                "Water Treatment Specialist"
+            ],
+            "wealth management": [
+                "Wealth Manager",
+                "Financial Advisor",
+                "Portfolio Manager"
+            ],
+            "web analytics": [
+                "Web Analyst",
+                "Digital Analytics Specialist",
+                "Marketing Data Analyst"
+            ],
+            "web design": [
+                "Web Designer",
+                "UI/UX Designer",
+                "Graphic Designer"
+            ],
+            "web development": [
+                "Web Developer",
+                "Frontend Developer",
+                "Full Stack Developer"
+            ],
+            "website management": [
+                "Website Manager",
+                "Webmaster",
+                "Content Manager"
+            ],
+            "wireless communications": [
+                "Wireless Engineer",
+                "Telecommunications Engineer",
+                "RF Engineer"
+            ],
+            "workflow management": [
+                "Workflow Manager",
+                "Business Process Manager",
+                "Operations Manager"
+            ],
+            "workforce management": [
+                "Workforce Manager",
+                "HR Manager",
+                "Operations Manager"
+            ],
+            "workplace safety": [
+                "Safety Manager",
+                "Occupational Health and Safety Specialist",
+                "Safety Consultant"
+            ],
+            "academic writing": [
+                "Academic Writer",
+                "Researcher",
+                "Content Writer"
+            ],
+            "access control": [
+                "Access Control Specialist",
+                "Security Consultant",
+                "IT Security Specialist"
+            ],
+            "account planning": [
+                "Account Planner",
+                "Client Services Manager",
+                "Strategic Planner"
+            ],
+            "administrative support": [
+                "Administrative Assistant",
+                "Executive Assistant",
+                "Office Manager"
+            ],
+            "adobe analytics": [
+                "Adobe Analytics Specialist",
+                "Digital Marketing Analyst",
+                "Data Analyst"
+            ],
+            "adobe creative": [
+                "Adobe Creative Suite Designer",
+                "Graphic Designer",
+                "UI/UX Designer"
+            ],
+            "advanced manufacturing": [
+                "Advanced Manufacturing Engineer",
+                "Manufacturing Specialist",
+                "Process Improvement Engineer"
+            ],
+            "affiliate marketing": [
+                "Affiliate Marketing Manager",
+                "Digital Marketing Specialist",
+                "Marketing Strategist"
+            ],
+            "agency management": [
+                "Agency Manager",
+                "Account Manager",
+                "Client Services Manager"
+            ],
+            "agricultural economics": [
+                "Agricultural Economist",
+                "Farm Manager",
+                "Agriculture Policy Analyst"
+            ],
+            "algorithmic trading": [
+                "Algorithmic Trader",
+                "Quantitative Analyst",
+                "Trading System Developer"
+            ],
+            "amazon aws": [
+                "AWS Cloud Engineer",
+                "Solutions Architect",
+                "DevOps Engineer"
+            ],
+            "analytical chemistry": [
+                "Analytical Chemist",
+                "Laboratory Analyst",
+                "Chemistry Researcher"
+            ],
+            "analytics engineering": [
+                "Analytics Engineer",
+                "Data Engineer",
+                "Business Intelligence Developer"
+            ],
+            "android studio": [
+                "Android Developer",
+                "Mobile App Developer",
+                "Software Engineer"
+            ],
+            "animation design": [
+                "Animation Designer",
+                "3D Animator",
+                "Motion Graphics Designer"
+            ],
+            "api development": [
+                "API Developer",
+                "Backend Developer",
+                "Software Engineer"
+            ],
+            "api integration": [
+                "API Integration Specialist",
+                "Software Engineer",
+                "Backend Developer"
+            ],
+    "application architecture": [
+        "Application Architect",
+        "Solutions Architect",
+        "Software Architect"
+    ],
+    "application deployment": [
+        "Application Deployment Specialist",
+        "DevOps Engineer",
+        "Release Manager"
+    ],
+    "application integration": [
+        "Application Integration Specialist",
+        "Software Developer",
+        "Systems Integrator"
+    ],
+    "application monitoring": [
+        "Application Support Engineer",
+        "Systems Administrator",
+        "DevOps Engineer"
+    ],
+    "application programming": [
+        "Application Programmer",
+        "Software Developer",
+        "Backend Developer"
+    ],
+    "application support": [
+        "Application Support Specialist",
+        "IT Support Engineer",
+        "Help Desk Support"
+    ],
+    "appointment scheduling": [
+        "Scheduler",
+        "Administrative Assistant",
+        "Appointment Coordinator"
+    ],
+    "architecture design": [
+        "Architect",
+        "Interior Designer",
+        "Urban Planner"
+    ],
+    "asset protection": [
+        "Asset Protection Manager",
+        "Security Specialist",
+        "Loss Prevention Manager"
+    ],
+    "asset valuation": [
+        "Asset Valuation Analyst",
+        "Appraiser",
+        "Financial Analyst"
+    ],
+    "audit management": [
+        "Audit Manager",
+        "Internal Auditor",
+        "Audit Consultant"
+    ],
+    "automation engineering": [
+        "Automation Engineer",
+        "Robotics Engineer",
+        "Process Automation Specialist"
+    ],
+    "automation testing": [
+        "Automation Tester",
+        "QA Engineer",
+        "Test Automation Engineer"
+    ],
+    "automotive engineering": [
+        "Automotive Engineer",
+        "Vehicle Systems Engineer",
+        "Mechanical Engineer"
+    ],
+    "aviation management": [
+        "Aviation Manager",
+        "Airline Operations Manager",
+        "Flight Operations Manager"
+    ],
+    "aws lambda": [
+        "AWS Lambda Developer",
+        "Cloud Engineer",
+        "DevOps Engineer"
+    ],
+    "aws services": [
+        "AWS Cloud Engineer",
+        "Solutions Architect",
+        "DevOps Engineer"
+    ],
+    "azure devops": [
+        "Azure DevOps Engineer",
+        "Cloud Solutions Architect",
+        "DevOps Consultant"
+    ],
+    "azure services": [
+        "Azure Cloud Engineer",
+        "Azure Solutions Architect",
+        "Cloud Developer"
+    ],
+    "back office": [
+        "Back Office Assistant",
+        "Operations Support Specialist",
+        "Administrative Assistant"
+    ],
+    "backup recovery": [
+        "Backup Administrator",
+        "Systems Engineer",
+        "Disaster Recovery Specialist"
+    ],
+    "banking software": [
+        "Banking Software Engineer",
+        "Fintech Developer",
+        "Core Banking System Specialist"
+    ],
+    "behavioral psychology": [
+        "Behavioral Psychologist",
+        "Therapist",
+        "Counselor"
+    ],
+    "benefits management": [
+        "Benefits Manager",
+        "HR Specialist",
+        "Compensation Analyst"
+    ],
+    "biometric security": [
+        "Biometric Security Specialist",
+        "Cybersecurity Engineer",
+        "Security Analyst"
+    ],
+    "biotechnology research": [
+        "Biotech Research Scientist",
+        "Biotechnologist",
+        "Medical Researcher"
+    ],
+    "board management": [
+        "Board Manager",
+        "Executive Assistant",
+        "Governance Consultant"
+    ],
+    "bond trading": [
+        "Bond Trader",
+        "Fixed Income Analyst",
+        "Securities Trader"
+    ],
+    "border security": [
+        "Border Security Officer",
+        "Border Control Specialist",
+        "Immigration Enforcement Officer"
+    ],
+    "brand development": [
+        "Brand Development Manager",
+        "Marketing Manager",
+        "Brand Strategist"
+    ],
+    "brand identity": [
+        "Brand Identity Designer",
+        "Graphic Designer",
+        "Marketing Manager"
+    ],
+    "brand strategy": [
+        "Brand Strategist",
+        "Marketing Strategist",
+        "Brand Manager"
+    ],
+    "building maintenance": [
+        "Building Maintenance Technician",
+        "Facilities Manager",
+        "Maintenance Supervisor"
+    ],
+    "business administration": [
+        "Business Administrator",
+        "Operations Manager",
+        "Executive Assistant"
+    ],
+    "business architecture": [
+        "Business Architect",
+        "Solutions Architect",
+        "Enterprise Architect"
+    ],
+    "business consulting": [
+        "Business Consultant",
+        "Management Consultant",
+        "Strategy Consultant"
+    ],
+    "business continuity": [
+        "Business Continuity Manager",
+        "Risk Management Specialist",
+        "Disaster Recovery Consultant"
+    ],
+    "business ethics": [
+        "Business Ethics Officer",
+        "Compliance Officer",
+        "Corporate Social Responsibility Specialist"
+    ],
+    "business law": [
+        "Business Lawyer",
+        "Corporate Counsel",
+        "Legal Advisor"
+    ],
+    "business operations": [
+        "Business Operations Manager",
+        "Operations Coordinator",
+        "Process Improvement Specialist"
+    ],
+    "business process": [
+        "Business Process Analyst",
+        "Process Engineer",
+        "Operations Manager"
+    ],
+    "business systems": [
+        "Business Systems Analyst",
+        "Systems Architect",
+        "IT Consultant"
+    ],
+    "business transformation": [
+        "Business Transformation Consultant",
+        "Change Management Consultant",
+        "Transformation Manager"
+    ],
+    "campaign analytics": [
+        "Campaign Analyst",
+        "Digital Marketing Analyst",
+        "Marketing Data Analyst"
+    ],
+    "campaign planning": [
+        "Campaign Planner",
+        "Marketing Manager",
+        "Digital Campaign Manager"
+    ],
+    "campus management": [
+        "Campus Manager",
+        "Facilities Manager",
+        "Campus Operations Manager"
+    ],
+    "capital markets": [
+        "Capital Markets Analyst",
+        "Investment Banker",
+        "Financial Analyst"
+    ],
+    "career development": [
+        "Career Development Specialist",
+        "Career Coach",
+        "Talent Development Manager"
+    ],
+    "case management": [
+        "Case Manager",
+        "Social Worker",
+        "Healthcare Coordinator"
+    ],
+    "cash flow": [
+        "Cash Flow Analyst",
+        "Financial Analyst",
+        "Treasury Manager"
+    ],
+    "catering management": [
+        "Catering Manager",
+        "Event Planner",
+        "Catering Coordinator"
+    ],
+    "channel development": [
+        "Channel Development Manager",
+        "Partner Manager",
+        "Sales Director"
+    ],
+    "channel sales": [
+        "Channel Sales Manager",
+        "Sales Executive",
+        "Sales Director"
+    ],
+    "chemical analysis": [
+        "Chemical Analyst",
+        "Analytical Chemist",
+        "Laboratory Technician"
+    ],
+    "chemical processing": [
+        "Chemical Process Engineer",
+        "Production Manager",
+        "Process Operator"
+    ],
+    "chief technology": [
+        "Chief Technology Officer",
+        "CTO",
+        "Technology Director"
+    ],
+    "circuit analysis": [
+        "Circuit Analyst",
+        "Electrical Engineer",
+        "Electronics Engineer"
+    ],
+    "citizens service": [
+        "Citizens Service Representative",
+        "Customer Service Specialist",
+        "Public Service Coordinator"
+    ],
+    "city planning": [
+        "City Planner",
+        "Urban Planner",
+        "Municipal Planner"
+    ],
+    "civilian security": [
+        "Security Consultant",
+        "Safety Specialist",
+        "Risk Manager"
+    ],
+    "claims management": [
+        "Claims Manager",
+        "Insurance Adjuster",
+        "Claims Specialist"
+    ],
+    "client development": [
+        "Client Development Manager",
+        "Business Development Manager",
+        "Account Manager"
+    ],
+    "client management": [
+        "Client Manager",
+        "Customer Success Manager",
+        "Account Manager"
+    ],
+    "client servicing": [
+        "Client Service Specialist",
+        "Customer Support Manager",
+        "Account Executive"
+    ],
+    "clinical documentation": [
+        "Clinical Documentation Specialist",
+        "Medical Coder",
+        "Health Information Manager"
+    ],
+    "clinical operations": [
+        "Clinical Operations Manager",
+        "Clinical Research Coordinator",
+        "Healthcare Operations Manager"
+    ],
+    "clinical psychology": [
+        "Clinical Psychologist",
+        "Therapist",
+        "Mental Health Counselor"
+    ],
+    "cloud development": [
+        "Cloud Developer",
+        "Cloud Engineer",
+        "DevOps Engineer"
+    ],
+    "cloud operations": [
+        "Cloud Operations Manager",
+        "Cloud Engineer",
+        "DevOps Engineer"
+    ],
+    "cloud platforms": [
+        "Cloud Solutions Architect",
+        "Cloud Engineer",
+        "Cloud Developer"
+    ],
+    "cloud solutions": [
+        "Cloud Solutions Architect",
+        "Cloud Engineer",
+        "Cloud Consultant"
+    ],
+    "cloud storage": [
+        "Cloud Storage Engineer",
+        "Cloud Solutions Architect",
+        "Cloud Administrator"
+    ],
+    "code development": [
+        "Software Developer",
+        "Backend Developer",
+        "Application Developer"
+    ],
+    "code management": [
+        "Code Manager",
+        "Software Engineer",
+        "Version Control Manager"
+    ],
+    "code optimization": [
+        "Code Optimization Specialist",
+        "Software Developer",
+        "Performance Engineer"
+    ],
+    "cognitive psychology": [
+        "Cognitive Psychologist",
+        "Behavioral Scientist",
+        "Researcher"
+    ],
+    "cognitive science": [
+        "Cognitive Scientist",
+        "AI Researcher",
+        "Neuroscientist"
+    ],
+    "collection management": [
+        "Collection Manager",
+        "Debt Collector",
+        "Credit Analyst"
+    ],
+    "commercial insurance": [
+        "Commercial Insurance Underwriter",
+        "Insurance Broker",
+        "Risk Analyst"
+    ],
+    "commercial operations": [
+        "Commercial Operations Manager",
+        "Business Operations Manager",
+        "Sales Operations Manager"
+    ],
+    "commercial property": [
+        "Commercial Property Manager",
+        "Real Estate Manager",
+        "Property Consultant"
+    ],
+    "commercial real": [
+        "Commercial Real Estate Agent",
+        "Real Estate Consultant",
+        "Property Manager"
+    ],
+    "communication design": [
+        "Communication Designer",
+        "Graphic Designer",
+        "Visual Designer"
+    ],
+    "communication management": [
+        "Communication Manager",
+        "Public Relations Manager",
+        "Marketing Manager"
+    ],
+    "communication planning": [
+        "Communication Planner",
+        "Marketing Specialist",
+        "Public Relations Specialist"
+    ],
+    "communication skills": [
+        "Communication Trainer",
+        "Corporate Trainer",
+        "HR Specialist"
+    ],
+    "communication strategy": [
+        "Communication Strategist",
+        "Marketing Strategist",
+        "Public Relations Manager"
+    ],
+    "community development": [
+        "Community Development Manager",
+        "Social Worker",
+        "Community Outreach Coordinator"
+    ],
+    "community engagement": [
+        "Community Engagement Specialist",
+        "Outreach Coordinator",
+        "Public Relations Specialist"
+    ],
+    "community management": [
+        "Community Manager",
+        "Social Media Manager",
+        "Customer Support Manager"
+    ],
+    "community relations": [
+        "Community Relations Manager",
+        "Public Relations Specialist",
+        "Corporate Social Responsibility Specialist"
+    ],
+    "competitive analysis": [
+        "Competitive Analyst",
+        "Market Research Analyst",
+        "Business Intelligence Analyst"
+    ],
+    "competitive intelligence": [
+        "Competitive Intelligence Analyst",
+        "Market Analyst",
+        "Business Analyst"
+    ],
+    "complaint management": [
+        "Complaint Manager",
+        "Customer Service Manager",
+        "Client Relations Manager"
+    ],
+    "compliance management": [
+        "Compliance Manager",
+        "Compliance Officer",
+        "Risk Manager"
+    ],
+    "component engineering": [
+        "Component Engineer",
+        "Mechanical Engineer",
+        "Design Engineer"
+    ],
+    "computer engineering": [
+        "Computer Engineer",
+        "Systems Engineer",
+        "Software Engineer"
+    ],
+    "computer forensics": [
+        "Computer Forensics Analyst",
+        "Cybersecurity Specialist",
+        "Digital Forensics Investigator"
+    ],
+    "computer hardware": [
+        "Computer Hardware Engineer",
+        "Hardware Technician",
+        "Systems Administrator"
+    ],
+    "computer science": [
+        "Computer Scientist",
+        "Software Developer",
+        "Data Scientist"
+    ],
+    "computer security": [
+        "Computer Security Specialist",
+        "Cybersecurity Analyst",
+        "Information Security Officer"
+    ],
+    "conference management": [
+        "Conference Manager",
+        "Event Coordinator",
+        "Meeting Planner"
+    ],
+    "configuration control": [
+        "Configuration Control Analyst",
+        "Configuration Manager",
+        "Release Manager"
+    ],
+    "conflict management": [
+        "Conflict Manager",
+        "Mediator",
+        "HR Specialist"
+    ],
+    "conflict resolution": [
+        "Conflict Resolution Specialist",
+        "Mediator",
+        "HR Consultant"
+    ],
+    "conservation management": [
+        "Conservation Manager",
+        "Environmental Consultant",
+        "Sustainability Specialist"
+    ],
+    "construction engineering": [
+        "Construction Engineer",
+        "Project Engineer",
+        "Civil Engineer"
+    ],
+    "construction planning": [
+        "Construction Planner",
+        "Project Manager",
+        "Civil Engineer"
+    ],
+    "construction safety": [
+        "Construction Safety Manager",
+        "Health and Safety Officer",
+        "Safety Coordinator"
+    ],
+    "consumer behavior": [
+        "Consumer Behavior Analyst",
+        "Market Researcher",
+        "Behavioral Scientist"
+    ],
+    "consumer research": [
+        "Consumer Research Analyst",
+        "Market Researcher",
+        "Behavioral Analyst"
+    ],
+    "contact center": [
+        "Contact Center Manager",
+        "Customer Service Representative",
+        "Call Center Supervisor"
+    ],
+    "contact management": [
+        "Contact Manager",
+        "CRM Specialist",
+        "Customer Relations Manager"
+    ],
+    "container orchestration": [
+        "Container Orchestration Engineer",
+        "DevOps Engineer",
+        "Cloud Engineer"
+    ],
+    "content development": [
+        "Content Developer",
+        "Content Manager",
+        "Content Strategist"
+    ],
+    "content distribution": [
+        "Content Distribution Manager",
+        "Social Media Manager",
+        "Digital Marketing Specialist"
+    ],
+    "content operations": [
+        "Content Operations Manager",
+        "Content Strategist",
+        "Content Producer"
+    ],
+    "content production": [
+        "Content Producer",
+        "Content Creator",
+        "Video Producer"
+    ],
+    "content writing": [
+        "Content Writer",
+        "Copywriter",
+        "Technical Writer"
+    ],
+    "contract administration": [
+        "Contract Administrator",
+        "Legal Administrator",
+        "Procurement Specialist"
+    ],
+    "contract analysis": [
+        "Contract Analyst",
+        "Legal Consultant",
+        "Procurement Analyst"
+    ],
+    "contract development": [
+        "Contract Developer",
+        "Legal Counsel",
+        "Procurement Officer"
+    ],
+    "contract law": [
+        "Contract Lawyer",
+        "Legal Counsel",
+        "Corporate Counsel"
+    ],
+    "control engineering": [
+        "Control Engineer",
+        "Automation Engineer",
+        "Process Control Specialist"
+    ],
+    "conversion optimization": [
+        "Conversion Rate Optimization Specialist",
+        "Marketing Analyst",
+        "UX Researcher"
+    ],
+    "corporate development": [
+        "Corporate Development Manager",
+        "M&A Analyst",
+        "Strategic Development Specialist"
+    ],
+    "corporate governance": [
+        "Corporate Governance Specialist",
+        "Compliance Officer",
+        "Corporate Secretary"
+    ],
+    "corporate identity": [
+        "Corporate Identity Designer",
+        "Brand Manager",
+        "Marketing Specialist"
+    ],
+    "corporate security": [
+        "Corporate Security Manager",
+        "Risk Manager",
+        "Security Consultant"
+    ],
+    "corporate strategy": [
+        "Corporate Strategy Manager",
+        "Business Strategist",
+        "Strategy Consultant"
+    ],
+    "corporate training": [
+        "Corporate Trainer",
+        "Learning and Development Manager",
+        "Training Specialist"
+    ],
+    "cost control": [
+        "Cost Control Manager",
+        "Cost Analyst",
+        "Financial Controller"
+    ],
+    "cost engineering": [
+        "Cost Engineer",
+        "Project Cost Controller",
+        "Construction Estimator"
+    ],
+    "cost estimation": [
+        "Cost Estimator",
+        "Project Estimator",
+        "Construction Estimator"
+    ],
+    "cost optimization": [
+        "Cost Optimization Analyst",
+        "Financial Analyst",
+        "Cost Reduction Manager"
+    ],
+    "cost reduction": [
+        "Cost Reduction Specialist",
+        "Cost Optimization Manager",
+        "Lean Consultant"
+    ],
+    "creative design": [
+        "Creative Designer",
+        "Graphic Designer",
+        "Brand Designer"
+    ],
+    "creative direction": [
+        "Creative Director",
+        "Art Director",
+        "Design Director"
+    ],
+    "creative strategy": [
+        "Creative Strategist",
+        "Brand Strategist",
+        "Marketing Specialist"
+    ],
+    "creative writing": [
+        "Creative Writer",
+        "Content Writer",
+        "Copywriter"
+    ],
+    "credit management": [
+        "Credit Manager",
+        "Risk Manager",
+        "Credit Analyst"
+    ],
+    "credit risk": [
+        "Credit Risk Analyst",
+        "Risk Manager",
+        "Credit Manager"
+    ],
+    "crisis communication": [
+        "Crisis Communication Specialist",
+        "Public Relations Manager",
+        "Communications Consultant"
+    ],
+    "critical care": [
+        "Critical Care Nurse",
+        "Intensive Care Unit Nurse",
+        "Healthcare Specialist"
+    ],
+    "cross cultural": [
+        "Cross-Cultural Consultant",
+        "HR Specialist",
+        "Global Operations Manager"
+    ],
+    "cross functional": [
+        "Cross-Functional Team Leader",
+        "Project Manager",
+        "Operations Coordinator"
+    ],
+    "cross platform": [
+        "Cross-Platform Developer",
+        "Mobile App Developer",
+        "Software Engineer"
+    ],
+    "cross selling": [
+        "Sales Executive",
+        "Account Manager",
+        "Business Development Manager"
+    ],
+    "cultural management": [
+        "Cultural Manager",
+        "Diversity and Inclusion Specialist",
+        "Cultural Consultant"
+    ],
+    "currency trading": [
+        "Currency Trader",
+        "Foreign Exchange Analyst",
+        "Forex Trader"
+    ],
+    "customer acquisition": [
+        "Customer Acquisition Manager",
+        "Sales Executive",
+        "Digital Marketing Specialist"
+    ],
+    "customer analytics": [
+        "Customer Analytics Manager",
+        "Data Analyst",
+        "Marketing Analyst"
+    ],
+    "customer education": [
+        "Customer Education Manager",
+        "Training Specialist",
+        "Customer Success Manager"
+    ],
+    "customer engagement": [
+        "Customer Engagement Manager",
+        "Customer Experience Manager",
+        "Customer Support Specialist"
+    ],
+    "customer intelligence": [
+        "Customer Intelligence Analyst",
+        "Market Research Analyst",
+        "Business Intelligence Specialist"
+    ],
+    "customer journey": [
+        "Customer Journey Manager",
+        "UX Researcher",
+        "Customer Experience Specialist"
+    ],
+    "customer loyalty": [
+        "Customer Loyalty Manager",
+        "CRM Specialist",
+        "Retention Specialist"
+    ],
+    "customer retention": [
+        "Customer Retention Manager",
+        "Customer Success Manager",
+        "Client Relationship Manager"
+    ],
+    "customer satisfaction": [
+        "Customer Satisfaction Manager",
+        "Customer Experience Specialist",
+        "Client Support Specialist"
+    ],
+    "customer support": [
+        "Customer Support Representative",
+        "Customer Success Manager",
+        "Technical Support Specialist"
+    ],
+    "cyber defense": [
+        "Cyber Defense Analyst",
+        "Cybersecurity Specialist",
+        "Threat Intelligence Analyst"
+    ],
+    "cyber forensics": [
+        "Cyber Forensics Analyst",
+        "Digital Forensics Investigator",
+        "Security Consultant"
+    ],
+    "cyber intelligence": [
+        "Cyber Intelligence Analyst",
+        "Cybersecurity Specialist",
+        "Threat Analyst"
+    ],
+    "cyber operations": [
+        "Cyber Operations Specialist",
+        "Cybersecurity Analyst",
+        "Operations Manager"
+    ],
+    "cyber threat": [
+        "Cyber Threat Analyst",
+        "Security Analyst",
+        "Cybersecurity Consultant"
+    ],
+    "data acquisition": [
+        "Data Acquisition Specialist",
+        "Data Scientist",
+        "Research Analyst"
+    ],
+    "data administration": [
+        "Data Administrator",
+        "Database Administrator",
+        "Systems Administrator"
+    ],
+    "data backup": [
+        "Data Backup Specialist",
+        "Backup Administrator",
+        "Data Recovery Technician"
+    ],
+    "data classification": [
+        "Data Classification Analyst",
+        "Data Analyst",
+        "Data Privacy Officer"
+    ],
+    "data cleansing": [
+        "Data Cleansing Specialist",
+        "Data Analyst",
+        "Data Scientist"
+    ],
+        "decision support": [
+            "Decision Support Analyst",
+            "Business Intelligence Analyst",
+            "Data Analyst"
+        ],
+        "delivery management": [
+            "Delivery Manager",
+            "Project Manager",
+            "Operations Manager"
+        ],
+        "deployment management": [
+            "Deployment Manager",
+            "DevOps Engineer",
+            "Release Manager"
+        ],
+        "design engineering": [
+            "Design Engineer",
+            "Product Designer",
+            "Mechanical Engineer"
+        ],
+        "design management": [
+            "Design Manager",
+            "Creative Director",
+            "Product Design Manager"
+        ],
+        "design research": [
+            "Design Researcher",
+            "User Researcher",
+            "UX Researcher"
+        ],
+        "design systems": [
+            "Design Systems Specialist",
+            "UX Designer",
+            "UI/UX Designer"
+        ],
+        "design thinking": [
+            "Design Thinking Coach",
+            "UX Designer",
+            "Product Designer"
+        ],
+        "desktop management": [
+            "Desktop Support Specialist",
+            "IT Technician",
+            "System Administrator"
+        ],
+        "development operations": [
+            "DevOps Engineer",
+            "Software Engineer",
+            "Cloud Engineer"
+        ],
+        "device management": [
+            "Device Manager",
+            "Mobile Device Administrator",
+            "IT Support Specialist"
+        ],
+        "digital advertising": [
+            "Digital Advertising Specialist",
+            "PPC Manager",
+            "SEM Specialist"
+        ],
+        "digital analytics": [
+            "Digital Analyst",
+            "Marketing Data Analyst",
+            "Digital Marketing Manager"
+        ],
+        "digital architecture": [
+            "Digital Architect",
+            "Solutions Architect",
+            "Cloud Architect"
+        ],
+        "digital asset": [
+            "Digital Asset Manager",
+            "Content Manager",
+            "Digital Archivist"
+        ],
+        "digital banking": [
+            "Digital Banking Manager",
+            "Fintech Developer",
+            "Banking Systems Analyst"
+        ],
+        "digital commerce": [
+            "E-commerce Manager",
+            "Digital Marketing Manager",
+            "E-commerce Specialist"
+        ],
+        "digital communication": [
+            "Digital Communications Specialist",
+            "Public Relations Manager",
+            "Social Media Manager"
+        ],
+        "digital content": [
+            "Digital Content Manager",
+            "Content Strategist",
+            "Content Creator"
+        ],
+        "digital engineering": [
+            "Digital Engineer",
+            "Software Engineer",
+            "Cloud Engineer"
+        ],
+        "digital experience": [
+            "Digital Experience Manager",
+            "UX/UI Designer",
+            "Product Experience Manager"
+        ],
+        "digital innovation": [
+            "Innovation Manager",
+            "Digital Transformation Consultant",
+            "Product Innovation Manager"
+        ],
+        "digital learning": [
+            "Digital Learning Specialist",
+            "E-Learning Manager",
+            "Learning and Development Specialist"
+        ],
+        "digital operations": [
+            "Digital Operations Manager",
+            "Business Operations Manager",
+            "Digital Transformation Consultant"
+        ],
+        "digital payments": [
+            "Digital Payments Manager",
+            "Payments Solutions Architect",
+            "Fintech Developer"
+        ],
+        "digital photography": [
+            "Digital Photographer",
+            "Photographer",
+            "Visual Content Creator"
+        ],
+        "digital platform": [
+            "Digital Platform Manager",
+            "Platform Engineer",
+            "Cloud Platform Architect"
+        ],
+        "digital product": [
+            "Digital Product Manager",
+            "Product Owner",
+            "Product Designer"
+        ],
+        "digital security": [
+            "Digital Security Specialist",
+            "Cybersecurity Analyst",
+            "Information Security Officer"
+        ],
+        "digital services": [
+            "Digital Services Manager",
+            "Customer Experience Manager",
+            "IT Services Manager"
+        ],
+        "digital solutions": [
+            "Digital Solutions Architect",
+            "Digital Solutions Specialist",
+            "Business Solutions Manager"
+        ],
+        "digital technology": [
+            "Digital Technology Manager",
+            "IT Consultant",
+            "Digital Solutions Architect"
+        ],
+        "direct sales": [
+            "Direct Sales Manager",
+            "Sales Representative",
+            "Account Executive"
+        ],
+        "directory services": [
+            "Directory Services Manager",
+            "Network Administrator",
+            "System Administrator"
+        ],
+        "disaster management": [
+            "Disaster Management Specialist",
+            "Emergency Response Coordinator",
+            "Crisis Manager"
+        ],
+        "distribution management": [
+            "Distribution Manager",
+            "Supply Chain Manager",
+            "Logistics Manager"
+        ],
+        "district management": [
+            "District Manager",
+            "Area Manager",
+            "Regional Manager"
+        ],
+        "document control": [
+            "Document Control Manager",
+            "Document Specialist",
+            "Records Manager"
+        ],
+        "document processing": [
+            "Document Processing Specialist",
+            "Data Entry Specialist",
+            "Office Administrator"
+        ],
+        "domain architecture": [
+            "Domain Architect",
+            "Solutions Architect",
+            "Enterprise Architect"
+        ],
+        "domain knowledge": [
+            "Domain Specialist",
+            "Subject Matter Expert",
+            "Industry Consultant"
+        ],
+        "drawing design": [
+            "Drawing Designer",
+            "CAD Designer",
+            "Architectural Drafter"
+        ],
+        "drone photography": [
+            "Drone Photographer",
+            "Aerial Photographer",
+            "Drone Operator"
+        ],
+        "dynamic systems": [
+            "Dynamic Systems Engineer",
+            "Systems Analyst",
+            "Mechanical Engineer"
+        ],
+        "e commerce": [
+            "E-commerce Manager",
+            "Digital Marketing Manager",
+            "E-commerce Specialist"
+        ],
+        "economic analysis": [
+            "Economic Analyst",
+            "Economist",
+            "Data Analyst"
+        ],
+        "economic development": [
+            "Economic Development Specialist",
+            "Urban Development Manager",
+            "City Planner"
+        ],
+        "economic research": [
+            "Economic Research Analyst",
+            "Research Economist",
+            "Market Research Analyst"
+        ],
+        "education management": [
+            "Education Manager",
+            "School Administrator",
+            "Education Coordinator"
+        ],
+        "education technology": [
+            "EdTech Specialist",
+            "Educational Software Developer",
+            "E-Learning Designer"
+        ],
+        "election management": [
+            "Election Manager",
+            "Election Officer",
+            "Campaign Manager"
+        ],
+        "electrical design": [
+            "Electrical Design Engineer",
+            "Electrical Systems Designer",
+            "Power Systems Engineer"
+        ],
+        "electrical maintenance": [
+            "Electrical Maintenance Engineer",
+            "Maintenance Technician",
+            "Electrical Maintenance Technician"
+        ],
+        "electrical systems": [
+            "Electrical Systems Engineer",
+            "Power Systems Engineer",
+            "Electrical Designer"
+        ],
+        "electronic commerce": [
+            "E-commerce Specialist",
+            "Digital Marketing Manager",
+            "E-commerce Manager"
+        ],
+        "electronic components": [
+            "Electronics Engineer",
+            "Component Engineer",
+            "Hardware Engineer"
+        ],
+        "electronic manufacturing": [
+            "Electronic Manufacturing Engineer",
+            "Manufacturing Technician",
+            "Production Engineer"
+        ],
+        "electronic systems": [
+            "Electronics Systems Engineer",
+            "Embedded Systems Engineer",
+            "Electronics Designer"
+        ],
+        "emergency response": [
+            "Emergency Response Coordinator",
+            "Crisis Management Specialist",
+            "Disaster Recovery Specialist"
+        ],
+        "employee development": [
+            "Employee Development Manager",
+            "Training and Development Manager",
+            "Learning and Development Specialist"
+        ],
+        "employee engagement": [
+            "Employee Engagement Manager",
+            "HR Specialist",
+            "Organizational Development Specialist"
+        ],
+        "employee experience": [
+            "Employee Experience Specialist",
+            "HR Manager",
+            "People Operations Manager"
+        ],
+        "employee training": [
+            "Employee Trainer",
+            "Training Specialist",
+            "Learning and Development Manager"
+        ],
+        "energy conservation": [
+            "Energy Conservation Specialist",
+            "Sustainability Consultant",
+            "Energy Analyst"
+        ],
+        "energy efficiency": [
+            "Energy Efficiency Consultant",
+            "Energy Manager",
+            "Sustainability Specialist"
+        ],
+        "energy engineering": [
+            "Energy Engineer",
+            "Renewable Energy Engineer",
+            "Energy Systems Engineer"
+        ],
+        "energy operations": [
+            "Energy Operations Manager",
+            "Energy Systems Manager",
+            "Energy Analyst"
+        ],
+        "engineering design": [
+            "Design Engineer",
+            "Mechanical Engineer",
+            "Product Development Engineer"
+        ],
+        "engineering management": [
+            "Engineering Manager",
+            "Project Manager",
+            "Operations Manager"
+        ],
+        "enterprise resource": [
+            "ERP Specialist",
+            "ERP Consultant",
+            "Enterprise Systems Manager"
+        ],
+        "enterprise risk": [
+            "Enterprise Risk Manager",
+            "Risk Analyst",
+            "Compliance Manager"
+        ],
+        "enterprise sales": [
+            "Enterprise Sales Manager",
+            "Business Development Executive",
+            "Account Executive"
+        ],
+        "enterprise security": [
+            "Enterprise Security Specialist",
+            "Cybersecurity Consultant",
+            "Security Operations Manager"
+        ],
+        "enterprise software": [
+            "Enterprise Software Developer",
+            "Software Solutions Architect",
+            "ERP Consultant"
+        ],
+        "enterprise solutions": [
+            "Enterprise Solutions Architect",
+            "Software Consultant",
+            "IT Solutions Specialist"
+        ],
+            "entertainment management": [
+                "Entertainment Manager",
+                "Event Manager",
+                "Production Manager"
+            ],
+            "environmental compliance": [
+                "Environmental Compliance Manager",
+                "Environmental Consultant",
+                "Regulatory Affairs Specialist"
+            ],
+            "environmental conservation": [
+                "Environmental Conservationist",
+                "Conservation Officer",
+                "Sustainability Consultant"
+            ],
+            "environmental consulting": [
+                "Environmental Consultant",
+                "Sustainability Consultant",
+                "Environmental Planner"
+            ],
+            "environmental health": [
+                "Environmental Health Officer",
+                "Health and Safety Specialist",
+                "Environmental Health Manager"
+            ],
+            "environmental impact": [
+                "Environmental Impact Analyst",
+                "Sustainability Analyst",
+                "Environmental Consultant"
+            ],
+            "environmental law": [
+                "Environmental Lawyer",
+                "Corporate Counsel",
+                "Environmental Compliance Specialist"
+            ],
+            "environmental monitoring": [
+                "Environmental Monitoring Technician",
+                "Environmental Specialist",
+                "Compliance Officer"
+            ],
+            "environmental policy": [
+                "Environmental Policy Analyst",
+                "Sustainability Officer",
+                "Environmental Advocate"
+            ],
+            "environmental protection": [
+                "Environmental Protection Specialist",
+                "Sustainability Manager",
+                "Environmental Consultant"
+            ],
+            "environmental safety": [
+                "Environmental Safety Specialist",
+                "Health and Safety Officer",
+                "Safety Consultant"
+            ],
+            "environmental science": [
+                "Environmental Scientist",
+                "Ecologist",
+                "Sustainability Analyst"
+            ],
+            "environmental services": [
+                "Environmental Services Manager",
+                "Waste Management Specialist",
+                "Sustainability Consultant"
+            ],
+            "environmental systems": [
+                "Environmental Systems Engineer",
+                "Sustainability Engineer",
+                "Environmental Consultant"
+            ],
+            "equipment management": [
+                "Equipment Manager",
+                "Operations Manager",
+                "Maintenance Supervisor"
+            ],
+            "equipment operation": [
+                "Equipment Operator",
+                "Machinery Technician",
+                "Construction Equipment Operator"
+            ],
+            "estate management": [
+                "Estate Manager",
+                "Property Manager",
+                "Real Estate Manager"
+            ],
+            "estate planning": [
+                "Estate Planner",
+                "Trust Officer",
+                "Wealth Management Advisor"
+            ],
+            "ethical hacking": [
+                "Ethical Hacker",
+                "Penetration Tester",
+                "Cybersecurity Consultant"
+            ],
+            "event coordination": [
+                "Event Coordinator",
+                "Event Planner",
+                "Meeting Planner"
+            ],
+            "event marketing": [
+                "Event Marketing Manager",
+                "Marketing Manager",
+                "Campaign Coordinator"
+            ],
+            "event operations": [
+                "Event Operations Manager",
+                "Event Coordinator",
+                "Logistics Manager"
+            ],
+            "event organization": [
+                "Event Organizer",
+                "Event Planner",
+                "Conference Organizer"
+            ],
+            "event production": [
+                "Event Producer",
+                "Production Manager",
+                "Event Coordinator"
+            ],
+            "executive management": [
+                "Executive Manager",
+                "C-suite Executive",
+                "General Manager"
+            ],
+            "executive protection": [
+                "Executive Protection Specialist",
+                "Security Consultant",
+                "Bodyguard"
+            ],
+            "executive search": [
+                "Executive Search Consultant",
+                "Talent Acquisition Specialist",
+                "Recruitment Manager"
+            ],
+            "experience design": [
+                "Experience Designer",
+                "UX Designer",
+                "Product Designer"
+            ],
+            "export control": [
+                "Export Control Manager",
+                "Compliance Officer",
+                "International Trade Specialist"
+            ],
+            "external affairs": [
+                "External Affairs Manager",
+                "Public Relations Manager",
+                "Government Relations Specialist"
+            ],
+            "external relations": [
+                "External Relations Manager",
+                "Public Relations Specialist",
+                "Media Relations Manager"
+            ],
+            "facilities management": [
+                "Facilities Manager",
+                "Property Manager",
+                "Building Operations Manager"
+            ],
+            "facility operations": [
+                "Facility Operations Manager",
+                "Operations Manager",
+                "Facilities Supervisor"
+            ],
+            "factory automation": [
+                "Factory Automation Engineer",
+                "Industrial Automation Specialist",
+                "Manufacturing Engineer"
+            ],
+            "factory operations": [
+                "Factory Operations Manager",
+                "Production Manager",
+                "Manufacturing Supervisor"
+            ],
+            "family law": [
+                "Family Lawyer",
+                "Divorce Attorney",
+                "Child Custody Lawyer"
+            ],
+            "fashion design": [
+                "Fashion Designer",
+                "Apparel Designer",
+                "Textile Designer"
+            ],
+            "fashion management": [
+                "Fashion Manager",
+                "Retail Manager",
+                "Merchandise Manager"
+            ],
+            "fashion marketing": [
+                "Fashion Marketing Manager",
+                "Brand Manager",
+                "Retail Marketing Specialist"
+            ],
+            "field operations": [
+                "Field Operations Manager",
+                "Field Service Technician",
+                "Service Operations Manager"
+            ],
+            "field sales": [
+                "Field Sales Manager",
+                "Sales Executive",
+                "Account Manager"
+            ],
+            "field service": [
+                "Field Service Technician",
+                "Field Support Engineer",
+                "Service Technician"
+            ],
+            "file management": [
+                "File Manager",
+                "Records Manager",
+                "Document Control Specialist"
+            ],
+            "film production": [
+                "Film Producer",
+                "Production Assistant",
+                "Director of Photography"
+            ],
+            "final testing": [
+                "Test Engineer",
+                "QA Tester",
+                "Quality Assurance Specialist"
+            ],
+            "finance operations": [
+                "Finance Operations Manager",
+                "Finance Director",
+                "Financial Analyst"
+            ],
+            "financial advisory": [
+                "Financial Advisor",
+                "Investment Consultant",
+                "Wealth Manager"
+            ],
+            "financial control": [
+                "Financial Controller",
+                "Accounting Manager",
+                "Cost Controller"
+            ],
+            "financial operations": [
+                "Financial Operations Manager",
+                "Finance Analyst",
+                "Treasury Manager"
+            ],
+            "financial reporting": [
+                "Financial Reporting Analyst",
+                "Finance Manager",
+                "Accounting Manager"
+            ],
+            "financial research": [
+                "Financial Research Analyst",
+                "Investment Analyst",
+                "Economist"
+            ],
+            "financial services": [
+                "Financial Services Manager",
+                "Investment Banker",
+                "Wealth Manager"
+            ],
+            "financial software": [
+                "Financial Software Developer",
+                "Software Engineer",
+                "ERP Consultant"
+            ],
+            "financial systems": [
+                "Financial Systems Analyst",
+                "ERP Consultant",
+                "Finance Systems Developer"
+            ],
+            "fire protection": [
+                "Fire Protection Engineer",
+                "Fire Safety Specialist",
+                "Firefighter"
+            ],
+            "fire safety": [
+                "Fire Safety Officer",
+                "Health and Safety Officer",
+                "Fire Safety Consultant"
+            ],
+            "fleet operations": [
+                "Fleet Operations Manager",
+                "Logistics Manager",
+                "Fleet Manager"
+            ],
+            "food processing": [
+                "Food Processing Manager",
+                "Production Manager",
+                "Food Scientist"
+            ],
+            "food production": [
+                "Food Production Manager",
+                "Production Supervisor",
+                "Food Processing Technician"
+            ],
+            "food quality": [
+                "Food Quality Manager",
+                "Quality Assurance Specialist",
+                "Food Safety Officer"
+            ],
+            "food science": [
+                "Food Scientist",
+                "Food Researcher",
+                "Product Development Specialist"
+            ],
+            "food service": [
+                "Food Service Manager",
+                "Restaurant Manager",
+                "Catering Manager"
+            ],
+            "forecasting analysis": [
+                "Forecasting Analyst",
+                "Demand Planner",
+                "Supply Chain Analyst"
+            ],
+            "foreign exchange": [
+                "Forex Trader",
+                "Currency Analyst",
+                "Foreign Exchange Dealer"
+            ],
+            "foreign language": [
+                "Foreign Language Teacher",
+                "Translator",
+                "Interpreter"
+            ],
+            "foreign policy": [
+                "Foreign Policy Analyst",
+                "Political Scientist",
+                "International Relations Specialist"
+            ],
+            "foreign relations": [
+                "Foreign Relations Specialist",
+                "Diplomat",
+                "International Affairs Consultant"
+            ],
+            "foreign trade": [
+                "Foreign Trade Manager",
+                "Import/Export Specialist",
+                "International Trade Consultant"
+            ],
+            "forensic analysis": [
+                "Forensic Analyst",
+                "Forensic Scientist",
+                "Crime Scene Investigator"
+            ],
+            "forest conservation": [
+                "Forest Conservationist",
+                "Wildlife Biologist",
+                "Environmental Consultant"
+            ],
+            "fraud detection": [
+                "Fraud Detection Specialist",
+                "Risk Analyst",
+                "Fraud Investigator"
+            ],
+            "fraud investigation": [
+                "Fraud Investigator",
+                "Fraud Analyst",
+                "Forensic Investigator"
+            ],
+            "fraud prevention": [
+                "Fraud Prevention Analyst",
+                "Fraud Prevention Manager",
+                "Security Consultant"
+            ],
+            "front office": [
+                "Front Office Manager",
+                "Customer Service Representative",
+                "Operations Coordinator"
+            ],
+            "functional analysis": [
+                "Functional Analyst",
+                "Business Analyst",
+                "Systems Analyst"
+            ],
+            "functional management": [
+                "Functional Manager",
+                "Operations Manager",
+                "Project Manager"
+            ],
+            "functional testing": [
+                "Functional Tester",
+                "QA Engineer",
+                "Test Engineer"
+            ],
+            "fund accounting": [
+                "Fund Accountant",
+                "Portfolio Manager",
+                "Investment Analyst"
+            ],
+            "fund administration": [
+                "Fund Administrator",
+                "Portfolio Administrator",
+                "Investment Manager"
+            ],
+            "fund development": [
+                "Fund Development Manager",
+                "Grant Manager",
+                "Fundraiser"
+            ],
+            "fund operations": [
+                "Fund Operations Manager",
+                "Investment Operations Specialist",
+                "Portfolio Manager"
+            ],
+            "fund raising": [
+                "Fundraising Manager",
+                "Development Director",
+                "Charity Coordinator"
+            ],
+    "healthcare technology": [
+        "Healthcare Technology Specialist",
+        "Health IT Consultant",
+        "Health Systems Administrator"
+    ],
+    "heavy equipment": [
+        "Heavy Equipment Operator",
+        "Construction Equipment Manager",
+        "Heavy Machinery Technician"
+    ],
+    "higher education": [
+        "Higher Education Administrator",
+        "College Professor",
+        "Academic Affairs Manager"
+    ],
+    "highway engineering": [
+        "Highway Engineer",
+        "Transportation Engineer",
+        "Civil Engineer"
+    ],
+    "home healthcare": [
+        "Home Healthcare Nurse",
+        "Home Health Aide",
+        "Care Coordinator"
+    ],
+    "hospitality management": [
+        "Hospitality Manager",
+        "Hotel Manager",
+        "Event Coordinator"
+    ],
+    "hotel management": [
+        "Hotel Manager",
+        "Operations Manager",
+        "Guest Services Manager"
+    ],
+    "human capital": [
+        "Human Capital Manager",
+        "Talent Acquisition Specialist",
+        "HR Business Partner"
+    ],
+    "human factors": [
+        "Human Factors Engineer",
+        "UX Researcher",
+        "Ergonomics Specialist"
+    ],
+    "hydraulic engineering": [
+        "Hydraulic Engineer",
+        "Water Resources Engineer",
+        "Flood Control Engineer"
+    ],
+    "identity management": [
+        "Identity Management Specialist",
+        "Security Analyst",
+        "Access Control Manager"
+    ],
+    "image analysis": [
+        "Image Analyst",
+        "Computer Vision Specialist",
+        "Data Scientist"
+    ],
+    "immigration law": [
+        "Immigration Lawyer",
+        "Visa Consultant",
+        "Legal Advisor"
+    ],
+    "implementation management": [
+        "Implementation Manager",
+        "Project Manager",
+        "Operations Consultant"
+    ],
+    "import export": [
+        "Import/Export Manager",
+        "Logistics Coordinator",
+        "Supply Chain Specialist"
+    ],
+    "income tax": [
+        "Income Tax Specialist",
+        "Tax Advisor",
+        "Tax Accountant"
+    ],
+    "industrial automation": [
+        "Industrial Automation Engineer",
+        "Automation Technician",
+        "Control Systems Engineer"
+    ],
+    "industrial control": [
+        "Industrial Control Engineer",
+        "Automation Specialist",
+        "Process Control Engineer"
+    ],
+    "industrial maintenance": [
+        "Industrial Maintenance Technician",
+        "Maintenance Engineer",
+        "Facilities Manager"
+    ],
+    "industrial manufacturing": [
+        "Industrial Manufacturing Engineer",
+        "Production Supervisor",
+        "Process Improvement Specialist"
+    ],
+    "industrial operations": [
+        "Industrial Operations Manager",
+        "Operations Supervisor",
+        "Manufacturing Manager"
+    ],
+    "industrial production": [
+        "Industrial Production Manager",
+        "Manufacturing Supervisor",
+        "Production Engineer"
+    ],
+    "industrial safety": [
+        "Industrial Safety Specialist",
+        "Safety Manager",
+        "Health and Safety Officer"
+    ],
+    "information management": [
+        "Information Manager",
+        "Data Manager",
+        "Records Manager"
+    ],
+    "information services": [
+        "Information Services Manager",
+        "IT Support Specialist",
+        "Data Analyst"
+    ],
+    "infrastructure development": [
+        "Infrastructure Development Manager",
+        "Project Manager",
+        "Construction Manager"
+    ],
+    "infrastructure engineering": [
+        "Infrastructure Engineer",
+        "Civil Engineer",
+        "Construction Engineer"
+    ],
+    "infrastructure operations": [
+        "Infrastructure Operations Manager",
+        "Systems Administrator",
+        "Network Operations Manager"
+    ],
+    "infrastructure planning": [
+        "Infrastructure Planner",
+        "Urban Planner",
+        "Construction Project Manager"
+    ],
+    "infrastructure security": [
+        "Infrastructure Security Analyst",
+        "Cybersecurity Specialist",
+        "Network Security Engineer"
+    ],
+    "infrastructure services": [
+        "Infrastructure Services Manager",
+        "IT Infrastructure Consultant",
+        "Systems Administrator"
+    ],
+    "innovation strategy": [
+        "Innovation Strategist",
+        "Product Innovation Manager",
+        "R&D Manager"
+    ],
+    "installation management": [
+        "Installation Manager",
+        "Project Manager",
+        "Field Service Manager"
+    ],
+    "institutional sales": [
+        "Institutional Sales Manager",
+        "Sales Executive",
+        "Client Relationship Manager"
+    ],
+    "insurance claims": [
+        "Claims Adjuster",
+        "Insurance Claims Manager",
+        "Insurance Examiner"
+    ],
+    "insurance management": [
+        "Insurance Manager",
+        "Risk Manager",
+        "Claims Manager"
+    ],
+    "insurance sales": [
+        "Insurance Sales Agent",
+        "Insurance Sales Manager",
+        "Sales Executive"
+    ],
+    "integration testing": [
+        "Integration Test Engineer",
+        "QA Engineer",
+        "Software Test Specialist"
+    ],
+    "intellectual property": [
+        "Intellectual Property Lawyer",
+        "Patent Agent",
+        "IP Consultant"
+    ],
+    "intelligence analysis": [
+        "Intelligence Analyst",
+        "Security Analyst",
+        "National Security Specialist"
+    ],
+    "interactive design": [
+        "Interactive Designer",
+        "UX/UI Designer",
+        "Product Designer"
+    ],
+    "interactive marketing": [
+        "Interactive Marketing Manager",
+        "Digital Marketing Specialist",
+        "Campaign Manager"
+    ],
+    "internal communications": [
+        "Internal Communications Manager",
+        "Corporate Communications Specialist",
+        "Employee Communications Specialist"
+    ],
+    "internal control": [
+        "Internal Control Specialist",
+        "Internal Auditor",
+        "Compliance Officer"
+    ],
+    "internet marketing": [
+        "Internet Marketing Manager",
+        "SEO Specialist",
+        "PPC Manager"
+    ],
+    "internet security": [
+        "Internet Security Analyst",
+        "Cybersecurity Specialist",
+        "Information Security Consultant"
+    ],
+    "internet technology": [
+        "Internet Technology Specialist",
+        "IT Consultant",
+        "Network Engineer"
+    ],
+    "investment analysis": [
+        "Investment Analyst",
+        "Financial Analyst",
+        "Equity Analyst"
+    ],
+    "investment operations": [
+        "Investment Operations Manager",
+        "Portfolio Administrator",
+        "Fund Operations Specialist"
+    ],
+    "investment research": [
+        "Investment Research Analyst",
+        "Equity Research Analyst",
+        "Financial Research Analyst"
+    ],
+    "investment strategy": [
+        "Investment Strategy Analyst",
+        "Portfolio Manager",
+        "Investment Advisor"
+    ],
+    "iot development": [
+        "IoT Developer",
+        "IoT Solutions Architect",
+        "Embedded Systems Engineer"
+    ],
+    "it audit": [
+        "IT Auditor",
+        "Compliance Auditor",
+        "Internal Auditor"
+    ],
+    "it compliance": [
+        "IT Compliance Specialist",
+        "Compliance Officer",
+        "Security Consultant"
+    ],
+    "it consulting": [
+        "IT Consultant",
+        "Technology Consultant",
+        "Business Consultant"
+    ],
+    "it infrastructure": [
+        "IT Infrastructure Engineer",
+        "Systems Administrator",
+        "Network Administrator"
+    ],
+    "it operations": [
+        "IT Operations Manager",
+        "Network Operations Manager",
+        "Systems Support Specialist"
+    ],
+    "it planning": [
+        "IT Planner",
+        "Technology Strategist",
+        "IT Project Manager"
+    ],
+    "it policy": [
+        "IT Policy Manager",
+        "Compliance Officer",
+        "Governance Specialist"
+    ],
+    "it project": [
+        "IT Project Manager",
+        "Project Coordinator",
+        "Technology Project Manager"
+    ],
+    "it security": [
+        "IT Security Manager",
+        "Cybersecurity Analyst",
+        "Information Security Consultant"
+    ],
+    "it service": [
+        "IT Service Manager",
+        "Service Desk Analyst",
+        "IT Support Specialist"
+    ],
+    "it strategy": [
+        "IT Strategist",
+        "Technology Consultant",
+        "IT Director"
+    ],
+    "it systems": [
+        "IT Systems Administrator",
+        "Network Administrator",
+        "System Engineer"
+    ],
+    "java programming": [
+        "Java Developer",
+        "Software Engineer",
+        "Backend Developer"
+    ],
+    "job safety": [
+        "Job Safety Officer",
+        "Safety Manager",
+        "Health and Safety Officer"
+    ],
+    "knowledge base": [
+        "Knowledge Base Manager",
+        "Content Specialist",
+        "Technical Writer"
+    ],
+    "labor management": [
+        "Labor Manager",
+        "HR Manager",
+        "Workforce Specialist"
+    ],
+    "laboratory management": [
+        "Laboratory Manager",
+        "Lab Supervisor",
+        "Quality Control Manager"
+    ],
+    "laboratory operations": [
+        "Laboratory Operations Manager",
+        "Lab Technician",
+        "Operations Coordinator"
+    ],
+    "laboratory safety": [
+        "Laboratory Safety Officer",
+        "Health and Safety Officer",
+        "Environmental Health Specialist"
+    ],
+    "laboratory testing": [
+        "Laboratory Technician",
+        "Testing Analyst",
+        "Quality Control Technician"
+    ],
+    "land development": [
+        "Land Development Manager",
+        "Real Estate Developer",
+        "Urban Planner"
+    ],      
+        "land management": [
+            "Land Manager",
+            "Land Acquisition Specialist",
+            "Real Estate Manager"
+        ],
+        "language teaching": [
+            "Language Teacher",
+            "ESL Instructor",
+            "Language Instructor"
+        ],
+        "leadership training": [
+            "Leadership Trainer",
+            "Training Specialist",
+            "HR Specialist"
+        ],
+        "learning development": [
+            "Learning and Development Manager",
+            "Training Coordinator",
+            "Learning Specialist"
+        ],
+        "learning management": [
+            "Learning Manager",
+            "Learning and Development Coordinator",
+            "Training Manager"
+        ],
+        "legal compliance": [
+            "Legal Compliance Manager",
+            "Compliance Officer",
+            "Corporate Counsel"
+        ],
+        "legal management": [
+            "Legal Manager",
+            "Legal Operations Manager",
+            "Corporate Counsel"
+        ],
+        "legal operations": [
+            "Legal Operations Manager",
+            "Legal Project Manager",
+            "Compliance Manager"
+        ],
+        "legal services": [
+            "Legal Services Manager",
+            "Legal Assistant",
+            "Paralegal"
+        ],
+        "legal support": [
+            "Legal Support Specialist",
+            "Paralegal",
+            "Legal Assistant"
+        ],
+        "lifecycle management": [
+            "Lifecycle Manager",
+            "Product Lifecycle Specialist",
+            "Project Manager"
+        ],
+        "lighting design": [
+            "Lighting Designer",
+            "Electrical Designer",
+            "Interior Lighting Specialist"
+        ],
+        "linux administration": [
+            "Linux Administrator",
+            "System Administrator",
+            "DevOps Engineer"
+        ],
+        "linux system": [
+            "Linux Systems Engineer",
+            "Linux Administrator",
+            "IT Support Specialist"
+        ],
+        "loan operations": [
+            "Loan Operations Manager",
+            "Loan Officer",
+            "Mortgage Specialist"
+        ],
+        "logistics operations": [
+            "Logistics Operations Manager",
+            "Supply Chain Manager",
+            "Operations Manager"
+        ],
+        "loss prevention": [
+            "Loss Prevention Specialist",
+            "Security Manager",
+            "Retail Loss Prevention Manager"
+        ],
+        "machine operation": [
+            "Machine Operator",
+            "Heavy Equipment Operator",
+            "Manufacturing Technician"
+        ],
+        "maintenance engineering": [
+            "Maintenance Engineer",
+            "Industrial Engineer",
+            "Facilities Engineer"
+        ],
+        "maintenance management": [
+            "Maintenance Manager",
+            "Facilities Manager",
+            "Operations Manager"
+        ],
+        "maintenance planning": [
+            "Maintenance Planner",
+            "Maintenance Manager",
+            "Operations Planner"
+        ],
+        "management reporting": [
+            "Management Reporting Analyst",
+            "Financial Analyst",
+            "Business Intelligence Analyst"
+        ],
+        "manufacturing operations": [
+            "Manufacturing Operations Manager",
+            "Production Manager",
+            "Operations Supervisor"
+        ],
+        "manufacturing process": [
+            "Manufacturing Process Engineer",
+            "Production Engineer",
+            "Process Improvement Manager"
+        ],
+        "manufacturing production": [
+            "Manufacturing Production Manager",
+            "Factory Manager",
+            "Production Planner"
+        ],
+        "manufacturing quality": [
+            "Manufacturing Quality Manager",
+            "Quality Control Specialist",
+            "Quality Assurance Manager"
+        ],
+        "manufacturing systems": [
+            "Manufacturing Systems Engineer",
+            "Industrial Engineer",
+            "Automation Engineer"
+        ],
+        "marine engineering": [
+            "Marine Engineer",
+            "Naval Architect",
+            "Offshore Engineer"
+        ],
+        "market development": [
+            "Market Development Manager",
+            "Business Development Manager",
+            "Sales Director"
+        ],
+        "marketing communications": [
+            "Marketing Communications Manager",
+            "Public Relations Specialist",
+            "Corporate Communications Specialist"
+        ],
+        "marketing operations": [
+            "Marketing Operations Manager",
+            "Digital Marketing Manager",
+            "Campaign Manager"
+        ],
+        "marketing research": [
+            "Marketing Research Analyst",
+            "Market Research Consultant",
+            "Consumer Research Analyst"
+        ],
+        "material management": [
+            "Material Manager",
+            "Inventory Manager",
+            "Supply Chain Coordinator"
+        ],
+        "material science": [
+            "Material Scientist",
+            "Materials Engineer",
+            "R&D Specialist"
+        ],
+        "materials testing": [
+            "Materials Testing Engineer",
+            "Lab Technician",
+            "Quality Control Specialist"
+        ],
+        "mathematical analysis": [
+            "Mathematical Analyst",
+            "Data Scientist",
+            "Quantitative Analyst"
+        ],
+        "mechanical design": [
+            "Mechanical Designer",
+            "Product Designer",
+            "Mechanical Engineer"
+        ],
+        "mechanical systems": [
+            "Mechanical Systems Engineer",
+            "Product Development Engineer",
+            "Design Engineer"
+        ],
+        "media development": [
+            "Media Development Manager",
+            "Content Developer",
+            "Media Producer"
+        ],
+        "media management": [
+            "Media Manager",
+            "Digital Content Manager",
+            "Media Planner"
+        ],
+        "media operations": [
+            "Media Operations Manager",
+            "Content Operations Specialist",
+            "Broadcast Operations Manager"
+        ],
+        "media production": [
+            "Media Producer",
+            "Film Producer",
+            "Video Editor"
+        ],
+        "medical device": [
+            "Medical Device Engineer",
+            "Biomedical Engineer",
+            "Product Development Specialist"
+        ],
+        "medical education": [
+            "Medical Educator",
+            "Medical Instructor",
+            "Clinical Educator"
+        ],
+        "medical equipment": [
+            "Medical Equipment Specialist",
+            "Biomedical Technician",
+            "Healthcare Equipment Manager"
+        ],
+        "medical management": [
+            "Medical Manager",
+            "Healthcare Administrator",
+            "Medical Operations Manager"
+        ],
+        "medical research": [
+            "Medical Researcher",
+            "Clinical Research Associate",
+            "Biomedical Scientist"
+        ],
+        "medical services": [
+            "Medical Services Manager",
+            "Healthcare Provider",
+            "Medical Support Specialist"
+        ],
+        "medical software": [
+            "Medical Software Developer",
+            "Health IT Specialist",
+            "Software Engineer"
+        ],
+        "medical technology": [
+            "Medical Technologist",
+            "Biomedical Engineer",
+            "Healthcare Technology Specialist"
+        ],
+        "memory management": [
+            "Memory Management Engineer",
+            "Software Engineer",
+            "Systems Engineer"
+        ],
+        "mental healthcare": [
+            "Mental Health Counselor",
+            "Therapist",
+            "Psychiatrist"
+        ],
+        "merchandise management": [
+            "Merchandise Manager",
+            "Inventory Manager",
+            "Retail Manager"
+        ],
+        "message processing": [
+            "Message Processing Analyst",
+            "Data Entry Specialist",
+            "Communication Systems Specialist"
+        ],
+        "metal fabrication": [
+            "Metal Fabrication Specialist",
+            "Welding Engineer",
+            "Fabrication Technician"
+        ],
+        "method development": [
+            "Method Development Scientist",
+            "Analytical Chemist",
+            "R&D Specialist"
+        ],
+        "microsoft office": [
+            "Microsoft Office Specialist",
+            "Administrative Assistant",
+            "Executive Assistant"
+        ],
+        "microsoft sql": [
+            "Microsoft SQL Server Administrator",
+            "SQL Developer",
+            "Database Administrator"
+        ],
+        "microsoft technology": [
+            "Microsoft Technologies Specialist",
+            "Software Developer",
+            "IT Consultant"
+        ],
+        "military operations": [
+            "Military Operations Manager",
+            "Operations Specialist",
+            "Military Planner"
+        ],
+        "mining engineering": [
+            "Mining Engineer",
+            "Mining Operations Manager",
+            "Geotechnical Engineer"
+        ],
+        "mining operations": [
+            "Mining Operations Manager",
+            "Mining Technician",
+            "Site Supervisor"
+        ],
+        "mobile applications": [
+            "Mobile App Developer",
+            "iOS Developer",
+            "Android Developer"
+        ],
+        "mobile communications": [
+            "Mobile Communications Engineer",
+            "Wireless Communication Specialist",
+            "Telecommunications Consultant"
+        ],
+        "mobile security": [
+            "Mobile Security Specialist",
+            "Cybersecurity Engineer",
+            "Mobile App Security Consultant"
+        ],
+        "mobile solutions": [
+            "Mobile Solutions Architect",
+            "Mobile App Developer",
+            "Mobile Technology Consultant"
+        ],
+        "mobile technology": [
+            "Mobile Technology Specialist",
+            "Mobile Developer",
+            "Mobile Solutions Architect"
+        ],
+        "model testing": [
+            "Model Testing Engineer",
+            "Software Test Engineer",
+            "QA Engineer"
+        ],
+        "molecular biology": [
+            "Molecular Biologist",
+            "Genetics Researcher",
+            "Biomedical Researcher"
+        ],
+        "motion design": [
+            "Motion Designer",
+            "Animator",
+            "Video Producer"
+        ],
+        "motion graphics": [
+            "Motion Graphics Designer",
+            "Graphic Designer",
+            "Video Editor"
+        ],
+        "motor control": [
+            "Motor Control Engineer",
+            "Automation Engineer",
+            "Electrical Engineer"
+        ],
+        "music production": [
+            "Music Producer",
+            "Sound Engineer",
+            "Audio Technician"
+        ],
+        "natural language": [
+            "Natural Language Processing Engineer",
+            "Linguist",
+            "Data Scientist"
+        ],
+        "network design": [
+            "Network Designer",
+            "Network Architect",
+            "Systems Engineer"
+        ],
+    "physical planning": [
+        "Physical Planner",
+        "Urban Planner",
+        "City Planner"
+    ],
+    "physical production": [
+        "Physical Production Manager",
+        "Manufacturing Production Manager",
+        "Operations Manager"
+    ],
+    "physical programming": [
+        "Physical Programming Specialist",
+        "Systems Programmer",
+        "Software Developer"
+    ],
+    "physical testing": [
+        "Physical Test Engineer",
+        "Quality Control Engineer",
+        "Product Tester"
+    ],
+    "physics research": [
+        "Physicist",
+        "Research Scientist",
+        "Laboratory Researcher"
+    ],
+    "pipeline operations": [
+        "Pipeline Operations Manager",
+        "Pipeline Engineer",
+        "Field Operations Manager"
+    ],
+    "plant engineering": [
+        "Plant Engineer",
+        "Maintenance Engineer",
+        "Process Engineer"
+    ],
+    "plant operations": [
+        "Plant Operations Manager",
+        "Plant Supervisor",
+        "Operations Coordinator"
+    ],
+    "plant production": [
+        "Plant Production Manager",
+        "Manufacturing Supervisor",
+        "Operations Supervisor"
+    ],
+    "platform development": [
+        "Platform Developer",
+        "Solutions Architect",
+        "Product Development Manager"
+    ],
+    "platform engineering": [
+        "Platform Engineer",
+        "DevOps Engineer",
+        "Systems Engineer"
+    ],
+    "platform operations": [
+        "Platform Operations Manager",
+        "Cloud Operations Specialist",
+        "Systems Administrator"
+    ],
+    "policy analysis": [
+        "Policy Analyst",
+        "Public Policy Researcher",
+        "Government Affairs Specialist"
+    ],
+    "policy development": [
+        "Policy Development Specialist",
+        "Public Policy Consultant",
+        "Government Relations Manager"
+    ],
+    "policy management": [
+        "Policy Manager",
+        "Compliance Manager",
+        "Regulatory Affairs Specialist"
+    ],
+    "portfolio analysis": [
+        "Portfolio Analyst",
+        "Investment Analyst",
+        "Financial Analyst"
+    ],
+    "power distribution": [
+        "Power Distribution Engineer",
+        "Electrical Engineer",
+        "Energy Distribution Specialist"
+    ],
+    "power electronics": [
+        "Power Electronics Engineer",
+        "Electrical Engineer",
+        "Power Systems Specialist"
+    ],
+    "power generation": [
+        "Power Generation Engineer",
+        "Energy Systems Engineer",
+        "Renewable Energy Specialist"
+    ],
+    "power management": [
+        "Power Manager",
+        "Energy Manager",
+        "Power Systems Engineer"
+    ],
+    "power operations": [
+        "Power Operations Manager",
+        "Energy Operations Coordinator",
+        "Power Plant Operator"
+    ],
+    "power systems": [
+        "Power Systems Engineer",
+        "Electrical Systems Designer",
+        "Energy Engineer"
+    ],
+    "predictive maintenance": [
+        "Predictive Maintenance Engineer",
+        "Maintenance Manager",
+        "Reliability Engineer"
+    ],
+    "it skills": [
+        "IT Specialist",
+        "IT Consultant",
+        "Technology Support Specialist"
+    ],
+
+    "it architecture": [
+        "IT Architect",
+        "Solutions Architect",
+        "Cloud Architect"
+    ],
+   
+    "incident response": [
+        "Incident Response Specialist",
+        "Cybersecurity Analyst",
+        "Forensic Investigator"
+    ],
+ 
+    "e-commerce solutions": [
+        "E-commerce Manager",
+        "Digital Marketing Specialist",
+        "E-commerce Consultant"
+    ],
+
+    "virtualization techniques": [
+        "Virtualization Engineer",
+        "Systems Administrator",
+        "Cloud Architect"
+    ],
+
+    "penetration testing": [
+        "Penetration Tester",
+        "Ethical Hacker",
+        "Security Consultant"
+    ],
+
+    "continuous integration": [
+        "Continuous Integration Engineer",
+        "DevOps Engineer",
+        "Automation Engineer"
+    ],
+    "data warehousing": [
+        "Data Warehouse Developer",
+        "Data Engineer",
+        "Database Administrator"
+    ],
+    "firewall management": [
+        "Firewall Administrator",
+        "Network Security Engineer",
+        "Cybersecurity Consultant"
+    ],
+    "incident management": [
+        "Incident Manager",
+        "Service Desk Manager",
+        "IT Support Specialist"
+    ],
+    "change control": [
+        "Change Control Manager",
+        "Change Analyst",
+        "IT Change Manager"
+    ],
+    "user training": [
+        "User Trainer",
+        "Training Specialist",
+        "Learning and Development Manager"
+    ],
+    "load balancing": [
+        "Load Balancing Engineer",
+        "Network Engineer",
+        "DevOps Engineer"
+    ],
+    "service design": [
+        "Service Designer",
+        "UX Designer",
+        "Customer Experience Manager"
+    ],
+    "artificial neural": [
+        "Artificial Neural Network Engineer",
+        "AI Specialist",
+        "Data Scientist"
+    ],
+    "systems integration": [
+        "Systems Integration Specialist",
+        "Integration Consultant",
+        "DevOps Engineer"
+    ],
+        "seo strategy": [
+            "SEO Strategist",
+            "SEO Manager",
+            "SEO Analyst"
+        ],
+        "remote team": [
+            "Remote Team Manager",
+            "Remote Project Manager",
+            "Virtual Assistant"
+        ],
+        "information retrieval": [
+            "Information Retrieval Specialist",
+            "Data Scientist",
+            "Search Engine Optimization Analyst"
+        ],
+        "multimedia production": [
+            "Multimedia Producer",
+            "Video Producer",
+            "Content Creator"
+        ],
+        "iot solutions": [
+            "IoT Solutions Architect",
+            "IoT Developer",
+            "IoT Engineer"
+        ],
+        "remote collaboration": [
+            "Remote Collaboration Specialist",
+            "Virtual Team Manager",
+            "Project Manager"
+        ],
+        "agile teams": [
+            "Agile Coach",
+            "Scrum Master",
+            "Agile Project Manager"
+        ],
+        "customer segmentation": [
+            "Customer Segmentation Analyst",
+            "Marketing Analyst",
+            "Data Analyst"
+        ],
+        "project planning": [
+            "Project Planner",
+            "Project Manager",
+            "Program Manager"
+        ],
+        "performance metrics": [
+            "Performance Analyst",
+            "Business Intelligence Analyst",
+            "Data Analyst"
+        ],
+        "project lifecycle": [
+            "Project Manager",
+            "Project Coordinator",
+            "Program Manager"
+        ],
+        "digital campaigns": [
+            "Digital Campaign Manager",
+            "Marketing Specialist",
+            "Campaign Coordinator"
+        ],
+        "user engagement": [
+            "User Engagement Manager",
+            "Customer Experience Specialist",
+            "Community Manager"
+        ],
+        "technical training": [
+            "Technical Trainer",
+            "Training Specialist",
+            "Learning and Development Specialist"
+        ],
+        "customer insights": [
+            "Customer Insights Analyst",
+            "Market Research Analyst",
+            "Consumer Insights Specialist"
+        ],
+        "real-time data": [
+            "Real-Time Data Analyst",
+            "Data Scientist",
+            "Big Data Engineer"
+        ],
+        "technical architecture": [
+            "Technical Architect",
+            "Solutions Architect",
+            "IT Architect"
+        ],
+        "technical consulting": [
+            "Technical Consultant",
+            "IT Consultant",
+            "Business Consultant"
+        ],
+        "technical marketing": [
+            "Technical Marketing Manager",
+            "Product Marketing Specialist",
+            "Digital Marketing Specialist"
+        ],
+        "user feedback": [
+            "User Feedback Analyst",
+            "Product Manager",
+            "UX Researcher"
+        ],
+        "application performance": [
+            "Application Performance Engineer",
+            "Performance Tester",
+            "Quality Assurance Specialist"
+        ],
+        "mobile testing": [
+            "Mobile App Tester",
+            "QA Engineer",
+            "Mobile Testing Specialist"
+        ],
+        "agile planning": [
+            "Agile Project Manager",
+            "Scrum Master",
+            "Agile Coach"
+        ],
+        "knowledge sharing": [
+            "Knowledge Management Specialist",
+            "Knowledge Sharing Consultant",
+            "Content Strategist"
+        ],
+        "data strategy": [
+            "Data Strategy Consultant",
+            "Data Strategy Manager",
+            "Data Analyst"
+        ],
+        "social analytics": [
+            "Social Analytics Specialist",
+            "Social Media Analyst",
+            "Digital Marketing Analyst"
+        ],
+        "ux research": [
+            "UX Researcher",
+            "User Research Specialist",
+            "Usability Specialist"
+        ],
+        "ai research": [
+            "AI Research Scientist",
+            "AI Engineer",
+            "Machine Learning Researcher"
+        ],
+        "collaboration tools": [
+            "Collaboration Tools Specialist",
+            "IT Support Specialist",
+            "Productivity Tools Consultant"
+        ],
+        "performance assessment": [
+            "Performance Assessment Specialist",
+            "HR Specialist",
+            "Employee Development Specialist"
+        ],
+        "digital products": [
+            "Digital Product Manager",
+            "Product Owner",
+            "Product Development Specialist"
+        ],
+        "ai systems": [
+            "AI Systems Engineer",
+            "AI Specialist",
+            "Machine Learning Engineer"
+        ],
+        "security operations": [
+            "Security Operations Manager",
+            "Security Analyst",
+            "Incident Response Specialist"
+        ],
+        "business model": [
+            "Business Model Analyst",
+            "Business Consultant",
+            "Strategy Consultant"
+        ],
+        "agile practices": [
+            "Agile Coach",
+            "Scrum Master",
+            "Agile Project Manager"
+        ],
+        "data insights": [
+            "Data Insights Analyst",
+            "Business Intelligence Analyst",
+            "Data Scientist"
+        ],
+        "ai development": [
+            "AI Developer",
+            "Machine Learning Engineer",
+            "AI Researcher"
+        ],
+
+        "agile execution": [
+            "Agile Project Manager",
+            "Scrum Master",
+            "Agile Coach"
+        ],
+        "business processes": [
+            "Business Process Analyst",
+            "Operations Manager",
+            "Process Improvement Specialist"
+        ],
+        "user adoption": [
+            "User Adoption Specialist",
+            "Product Trainer",
+            "Customer Success Manager"
+        ],
+        "collaboration solutions": [
+            "Collaboration Solutions Architect",
+            "IT Solutions Consultant",
+            "Collaboration Tools Specialist"
+        ],
+
+        "ai technologies": [
+            "AI Engineer",
+            "Machine Learning Engineer",
+            "AI Developer"
+        ],
+        "e-commerce development": [
+            "E-commerce Developer",
+            "E-commerce Manager",
+            "Web Developer"
+        ],
+        "technical communication": [
+            "Technical Communicator",
+            "Technical Writer",
+            "Documentation Specialist"
+        ],
+        "cyber risk": [
+            "Cyber Risk Analyst",
+            "Risk Manager",
+            "Cybersecurity Consultant"
+        ],
+        "network optimization": [
+            "Network Optimization Engineer",
+            "Network Administrator",
+            "Network Engineer"
+        ],
+        "performance testing": [
+            "Performance Tester",
+            "QA Engineer",
+            "Software Test Engineer"
+        ]
+    }
